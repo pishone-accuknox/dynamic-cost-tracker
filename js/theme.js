@@ -30,5 +30,3 @@ async function updateLastUpdated() {
     lastUpdatedElement.textContent = 'Error loading timestamp';
   }
 }
-
-export { toggleTheme, updateLastUpdated };

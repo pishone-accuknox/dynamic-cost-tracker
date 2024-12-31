@@ -1,88 +1,76 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>GitHub Actions Analysis</title>
-  <link rel="stylesheet" href="css/base.css">
-  <link rel="stylesheet" href="css/components.css">
-  <link rel="stylesheet" href="css/theme.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Workflow Dashboard</title>
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/components.css">
+    <link rel="stylesheet" href="css/theme.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
 </head>
 <body class="light-theme">
-  <!-- Header -->
-  <div class="header">
-    <!-- Widgets Section -->
-    <div class="widgets-container">
-      <div class="widget card" id="totalCostWidget">
-        <h3>Total Cost</h3>
-        <p id="totalCost">Loading...</p>
-      </div>
-      <div class="widget card" id="topWorkflowsWidget">
-        <h3>Top 3 Time-Consuming Workflows</h3>
-        <ul id="topWorkflows">
-          <li>Loading...</li>
-        </ul>
-      </div>
-      <div class="widget card" id="failedWorkflowsWidget">
-        <h3>Failures Today</h3>
-        <p id="failedWorkflows">Loading...</p>
-      </div>
+    <div class="container">
+        <header>
+            <h1>Workflow Dashboard</h1>
+            <div class="theme-toggle">
+                <label class="switch">
+                    <input type="checkbox" id="checkboxInput" onclick="toggleTheme()">
+                    <span class="slider round"></span>
+                </label>
+            </div>
+        </header>
+
+        <div class="date-filter">
+            <input type="text" id="dateRange" placeholder="Select date range">
+            <input type="hidden" id="fromDate">
+            <input type="hidden" id="toDate">
+        </div>
+
+        <div class="tabs">
+            <button class="tab-button active" onclick="showTab('time-analysis')">Time Analysis</button>
+            <button class="tab-button" onclick="showTab('failures')">Failures</button>
+            <button class="tab-button" onclick="showTab('trend')">Trend</button>
+        </div>
+
+        <div id="time-analysis" class="tab-content">
+            <div class="widgets-container">
+                <div class="widget">
+                    <h3>Total Cost</h3>
+                    <p id="totalCost">$0.00</p>
+                </div>
+                <div class="widget">
+                    <h3>Top Time-Consuming</h3>
+                    <div id="topTimeConsuming"></div>
+                </div>
+                <div class="widget">
+                    <h3>Failures Today</h3>
+                    <p id="failuresCount">0</p>
+                </div>
+            </div>
+            <div id="timeAnalysisChart"></div>
+        </div>
+
+        <div id="failures" class="tab-content">
+            <div id="failuresContent"></div>
+        </div>
+
+        <div id="trend" class="tab-content">
+            <div id="trendChart"></div>
+        </div>
+
+        <footer>
+            Last updated: <span id="lastUpdated"></span>
+        </footer>
     </div>
 
-    <!-- Tabs Section -->
-    <ul class="tabs">
-      <li class="tab" onclick="showTab('time-analysis')">Workflow Time Analysis</li>
-      <li class="tab" onclick="showTab('trend')">Daily Runtime Trend</li>
-      <li class="tab" onclick="showTab('failures')">Workflow Failures</li>
-    </ul>
-
-    <!-- Last Updated -->
-    <div class="last-updated">
-      Last Updated: <span id="lastUpdated"></span>
-    </div>
-
-    <div class="header-right">
-      <!-- GitHub Button -->
-      <button class="github-button" onclick="window.open('https://github.com/pishone-accuknox/ActionBoard', '_blank')">
-        <span class="svgContainer">
-          <svg fill="white" viewBox="0 0 496 512" height="1.6em">
-            <path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8z"></path>
-          </svg>
-        </span>
-      </button>
-
-      <!-- Theme Toggle -->
-      <div class="theme-toggle">
-        <input type="checkbox" id="checkboxInput" onchange="toggleTheme()">
-        <label for="checkboxInput" class="toggleSwitch"></label>
-      </div>
-    </div>
-  </div>
-
-  <!-- Main Content -->
-  <div id="time-analysis" class="tab-content">
-    <div class="date-filters">
-      <input type="hidden" id="fromDate">
-      <input type="hidden" id="toDate">
-      <label for="dateRange">Date Range:</label>
-      <input type="text" id="dateRange" placeholder="Select date range">
-    </div>
-    <div class="chart-container">
-      <canvas id="workflowBarChart"></canvas>
-    </div>
-  </div>
-
-  <div id="trend" class="tab-content" style="display: none;">
-    <canvas id="trendChart"></canvas>
-  </div>
-
-  <div id="failures" class="tab-content" style="display: none;">
-    <div id="failuresContainer"></div>
-  </div>
-
-  <script type="module" src="js/main.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="js/config.js"></script>
+    <script src="js/utils.js"></script>
+    <script src="js/theme.js"></script>
+    <script src="js/charts.js"></script>
+    <script src="js/widgets.js"></script>
+    <script src="js/main.js"></script>
 </body>
 </html>

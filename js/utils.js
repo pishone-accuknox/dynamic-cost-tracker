@@ -1,6 +1,14 @@
 async function fetchData(url) {
-  const response = await fetch(url);
-  return response.json();
+  try {
+    const response = await fetch(url);
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+    return await response.json();
+  } catch (error) {
+    console.error('Error fetching data:', error);
+    return null;
+  }
 }
 
 function showTab(tabId) {
@@ -21,5 +29,3 @@ function showTab(tabId) {
     loadTrendChart();
   }
 }
-
-export { fetchData, showTab };
