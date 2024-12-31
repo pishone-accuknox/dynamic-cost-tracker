@@ -1,0 +1,107 @@
+[
+  {
+    "date": "2024-12-17",
+    "Ubuntu": 100.0,
+    "Windows": 0,
+    "MacOS": 50.0,
+    "Total": 150.0
+  },
+  {
+    "date": "2024-12-18",
+    "Ubuntu": 120.0,
+    "Windows": 0,
+    "MacOS": 60.0,
+    "Total": 180.0
+  },
+  {
+    "date": "2024-12-19",
+    "Ubuntu": 140.0,
+    "Windows": 0,
+    "MacOS": 70.0,
+    "Total": 210.0
+  },
+  {
+    "date": "2024-12-20",
+    "Ubuntu": 110.0,
+    "Windows": 0,
+    "MacOS": 55.0,
+    "Total": 165.0
+  },
+  {
+    "date": "2024-12-21",
+    "Ubuntu": 130.0,
+    "Windows": 0,
+    "MacOS": 65.0,
+    "Total": 195.0
+  },
+  {
+    "date": "2024-12-22",
+    "Ubuntu": 150.0,
+    "Windows": 0,
+    "MacOS": 75.0,
+    "Total": 225.0
+  },
+  {
+    "date": "2024-12-23",
+    "Ubuntu": 160.0,
+    "Windows": 0,
+    "MacOS": 80.0,
+    "Total": 240.0
+  },
+  {
+    "date": "2024-12-24",
+    "Ubuntu": 140.0,
+    "Windows": 0,
+    "MacOS": 70.0,
+    "Total": 210.0
+  },
+  {
+    "date": "2024-12-25",
+    "Ubuntu": 170.0,
+    "Windows": 0,
+    "MacOS": 85.0,
+    "Total": 255.0
+  },
+  {
+    "date": "2024-12-26",
+    "Ubuntu": 180.0,
+    "Windows": 0,
+    "MacOS": 90.0,
+    "Total": 270.0
+  },
+  {
+    "date": "2024-12-27",
+    "Ubuntu": 160.0,
+    "Windows": 0,
+    "MacOS": 80.0,
+    "Total": 240.0
+  },
+  {
+    "date": "2024-12-28",
+    "Ubuntu": 150.0,
+    "Windows": 0,
+    "MacOS": 75.0,
+    "Total": 225.0
+  },
+  {
+    "date": "2024-12-29",
+    "Ubuntu": 140.0,
+    "Windows": 0,
+    "MacOS": 70.0,
+    "Total": 210.0
+  },
+  {
+    "date": "2024-12-30",
+    "Ubuntu": 50.0,
+    "Windows": 0,
+    "MacOS": 65.0,
+    "Total": 50.0
+  },
+  {
+    "date": "2024-12-31",
+    "Ubuntu": 0.0,
+    "Windows": 0,
+    "MacOS": 120.0,
+    "Total": 120.0
+  }
+]

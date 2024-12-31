@@ -1,0 +1,4475 @@
+[
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Development pipeline for TestCases in divy application",
+    "run_id": 12517038759,
+    "status": "failure",
+    "created_at": "2024-12-27T14:10:11Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12517038759",
+    "total_time_minutes": 4.0
+  },
+  {
+    "repo": "Istio-Authx-Policies",
+    "workflow_name": ".github/workflows/development.yaml",
+    "run_id": 12501144994,
+    "status": "failure",
+    "created_at": "2024-12-26T07:31:36Z",
+    "html_url": "https://github.com/accuknox/Istio-Authx-Policies/actions/runs/12501144994",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "swagger-merger",
+    "workflow_name": "Create CNAPP swaggers",
+    "run_id": 12505141903,
+    "status": "failure",
+    "created_at": "2024-12-26T14:44:37Z",
+    "html_url": "https://github.com/accuknox/swagger-merger/actions/runs/12505141903",
+    "total_time_minutes": 2.0
+  },
+  {
+    "repo": "Istio-Authx-Policies",
+    "workflow_name": "Dev pipeline for Istio-Authx-Policies",
+    "run_id": 12499839552,
+    "status": "failure",
+    "created_at": "2024-12-26T05:00:00Z",
+    "html_url": "https://github.com/accuknox/Istio-Authx-Policies/actions/runs/12499839552",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "swagger-merger",
+    "workflow_name": "Create CNAPP swaggers",
+    "run_id": 12505007850,
+    "status": "failure",
+    "created_at": "2024-12-26T14:30:07Z",
+    "html_url": "https://github.com/accuknox/swagger-merger/actions/runs/12505007850",
+    "total_time_minutes": 2.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Ensure PR titles follow the format \"[CNAPP-<ISSUE_NUMBER>] <ISSUE_TITLE>\"",
+    "run_id": 12511423286,
+    "status": "failure",
+    "created_at": "2024-12-27T03:37:02Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12511423286",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "swagger-merger",
+    "workflow_name": "Create CNAPP swaggers",
+    "run_id": 12504178289,
+    "status": "failure",
+    "created_at": "2024-12-26T13:02:34Z",
+    "html_url": "https://github.com/accuknox/swagger-merger/actions/runs/12504178289",
+    "total_time_minutes": 2.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Docker Build and Push For K8s Job",
+    "run_id": 12504491567,
+    "status": "failure",
+    "created_at": "2024-12-26T13:34:14Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12504491567",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Docker Build and Push For K8s Job",
+    "run_id": 12499813507,
+    "status": "failure",
+    "created_at": "2024-12-26T04:55:12Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12499813507",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "accuknox-jobs",
+    "workflow_name": "secret-scan",
+    "run_id": 12361617487,
+    "status": "failure",
+    "created_at": "2024-12-16T21:28:37Z",
+    "html_url": "https://github.com/accuknox/accuknox-jobs/actions/runs/12361617487",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "Feeder-service",
+    "workflow_name": "Feeder-service Workflow",
+    "run_id": 12368249250,
+    "status": "failure",
+    "created_at": "2024-12-17T07:21:55Z",
+    "html_url": "https://github.com/accuknox/Feeder-service/actions/runs/12368249250",
+    "total_time_minutes": 6.0
+  },
+  {
+    "repo": "Helm-Chart-KSPM-Runtime-Security",
+    "workflow_name": "Accuknox-Job Workflow",
+    "run_id": 12442703018,
+    "status": "failure",
+    "created_at": "2024-12-21T05:52:10Z",
+    "html_url": "https://github.com/accuknox/Helm-Chart-KSPM-Runtime-Security/actions/runs/12442703018",
+    "total_time_minutes": 4.0
+  },
+  {
+    "repo": "frontend-toolkit",
+    "workflow_name": "Lint, Type Check, Test",
+    "run_id": 12479481417,
+    "status": "failure",
+    "created_at": "2024-12-24T08:58:17Z",
+    "html_url": "https://github.com/accuknox/frontend-toolkit/actions/runs/12479481417",
+    "total_time_minutes": 14.0
+  },
+  {
+    "repo": "vm-adapter",
+    "workflow_name": "build vm-adapter Workflow",
+    "run_id": 12542415904,
+    "status": "failure",
+    "created_at": "2024-12-30T05:33:22Z",
+    "html_url": "https://github.com/accuknox/vm-adapter/actions/runs/12542415904",
+    "total_time_minutes": 2.0
+  },
+  {
+    "repo": "dev2",
+    "workflow_name": "discovery engine Workflow",
+    "run_id": 12346633468,
+    "status": "failure",
+    "created_at": "2024-12-16T05:39:06Z",
+    "html_url": "https://github.com/accuknox/dev2/actions/runs/12346633468",
+    "total_time_minutes": 151.0
+  },
+  {
+    "repo": "frontend-toolkit",
+    "workflow_name": "saas-reports Workflow",
+    "run_id": 12479481253,
+    "status": "failure",
+    "created_at": "2024-12-24T08:58:16Z",
+    "html_url": "https://github.com/accuknox/frontend-toolkit/actions/runs/12479481253",
+    "total_time_minutes": 11.0
+  },
+  {
+    "repo": "accuknox-operator",
+    "workflow_name": "ansible-lint",
+    "run_id": 12348499555,
+    "status": "failure",
+    "created_at": "2024-12-16T08:14:24Z",
+    "html_url": "https://github.com/accuknox/accuknox-operator/actions/runs/12348499555",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "vm-adapter",
+    "workflow_name": "build vm-adapter Workflow",
+    "run_id": 12542384672,
+    "status": "failure",
+    "created_at": "2024-12-30T05:29:31Z",
+    "html_url": "https://github.com/accuknox/vm-adapter/actions/runs/12542384672",
+    "total_time_minutes": 4.0
+  },
+  {
+    "repo": "frontend-toolkit",
+    "workflow_name": "Lint, Type Check, Test",
+    "run_id": 12478795808,
+    "status": "failure",
+    "created_at": "2024-12-24T07:51:57Z",
+    "html_url": "https://github.com/accuknox/frontend-toolkit/actions/runs/12478795808",
+    "total_time_minutes": 7.0
+  },
+  {
+    "repo": "kmux",
+    "workflow_name": "PR Checks",
+    "run_id": 12373656340,
+    "status": "failure",
+    "created_at": "2024-12-17T13:07:52Z",
+    "html_url": "https://github.com/accuknox/kmux/actions/runs/12373656340",
+    "total_time_minutes": 5.0
+  },
+  {
+    "repo": "swagger-merger",
+    "workflow_name": "Create CNAPP swaggers",
+    "run_id": 12470362699,
+    "status": "failure",
+    "created_at": "2024-12-23T17:07:39Z",
+    "html_url": "https://github.com/accuknox/swagger-merger/actions/runs/12470362699",
+    "total_time_minutes": 2.0
+  },
+  {
+    "repo": "agents-chart",
+    "workflow_name": "Update knoxctl Release Manifest",
+    "run_id": 12542359615,
+    "status": "failure",
+    "created_at": "2024-12-30T05:26:22Z",
+    "html_url": "https://github.com/accuknox/agents-chart/actions/runs/12542359615",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "reporter",
+    "workflow_name": "reporter Workflow",
+    "run_id": 12479954295,
+    "status": "failure",
+    "created_at": "2024-12-24T09:39:38Z",
+    "html_url": "https://github.com/accuknox/reporter/actions/runs/12479954295",
+    "total_time_minutes": 11.0
+  },
+  {
+    "repo": "vm-adapter",
+    "workflow_name": "build vm-adapter Workflow",
+    "run_id": 12542374016,
+    "status": "failure",
+    "created_at": "2024-12-30T05:28:04Z",
+    "html_url": "https://github.com/accuknox/vm-adapter/actions/runs/12542374016",
+    "total_time_minutes": 2.0
+  },
+  {
+    "repo": "frontend-toolkit",
+    "workflow_name": "saas-reports Workflow",
+    "run_id": 12478795665,
+    "status": "failure",
+    "created_at": "2024-12-24T07:51:56Z",
+    "html_url": "https://github.com/accuknox/frontend-toolkit/actions/runs/12478795665",
+    "total_time_minutes": 10.0
+  },
+  {
+    "repo": "swagger-merger",
+    "workflow_name": "Create CNAPP swaggers",
+    "run_id": 12411597084,
+    "status": "failure",
+    "created_at": "2024-12-19T11:15:20Z",
+    "html_url": "https://github.com/accuknox/swagger-merger/actions/runs/12411597084",
+    "total_time_minutes": 2.0
+  },
+  {
+    "repo": "data-pipeline-api",
+    "workflow_name": "data-pipeline-api Workflow",
+    "run_id": 12457538796,
+    "status": "failure",
+    "created_at": "2024-12-22T20:43:46Z",
+    "html_url": "https://github.com/accuknox/data-pipeline-api/actions/runs/12457538796",
+    "total_time_minutes": 3.0
+  },
+  {
+    "repo": "swagger-merger",
+    "workflow_name": "Push SonarQube scans to SaaS",
+    "run_id": 12411597079,
+    "status": "failure",
+    "created_at": "2024-12-19T11:15:20Z",
+    "html_url": "https://github.com/accuknox/swagger-merger/actions/runs/12411597079",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "vm-adapter",
+    "workflow_name": ".github/workflows/ci-latest-release.yml",
+    "run_id": 12542339930,
+    "status": "failure",
+    "created_at": "2024-12-30T05:24:02Z",
+    "html_url": "https://github.com/accuknox/vm-adapter/actions/runs/12542339930",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12481945610,
+    "status": "failure",
+    "created_at": "2024-12-24T12:52:38Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12481945610",
+    "total_time_minutes": 15.0
+  },
+  {
+    "repo": "data-pipeline-api",
+    "workflow_name": "data-pipeline-api Workflow",
+    "run_id": 12445284992,
+    "status": "failure",
+    "created_at": "2024-12-21T12:46:08Z",
+    "html_url": "https://github.com/accuknox/data-pipeline-api/actions/runs/12445284992",
+    "total_time_minutes": 9.0
+  },
+  {
+    "repo": "vm-adapter",
+    "workflow_name": "ci-systemd-release",
+    "run_id": 12542314724,
+    "status": "failure",
+    "created_at": "2024-12-30T05:21:00Z",
+    "html_url": "https://github.com/accuknox/vm-adapter/actions/runs/12542314724",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12481757306,
+    "status": "failure",
+    "created_at": "2024-12-24T12:34:33Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12481757306",
+    "total_time_minutes": 14.0
+  },
+  {
+    "repo": "data-pipeline-api",
+    "workflow_name": ".github/workflows/action.yaml",
+    "run_id": 12427204986,
+    "status": "failure",
+    "created_at": "2024-12-20T07:14:14Z",
+    "html_url": "https://github.com/accuknox/data-pipeline-api/actions/runs/12427204986",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "swagger-merger",
+    "workflow_name": "Create CNAPP swaggers",
+    "run_id": 12388787751,
+    "status": "failure",
+    "created_at": "2024-12-18T08:05:46Z",
+    "html_url": "https://github.com/accuknox/swagger-merger/actions/runs/12388787751",
+    "total_time_minutes": 2.0
+  },
+  {
+    "repo": "observability-api",
+    "workflow_name": "observability-api Workflow",
+    "run_id": 12477255091,
+    "status": "failure",
+    "created_at": "2024-12-24T05:06:42Z",
+    "html_url": "https://github.com/accuknox/observability-api/actions/runs/12477255091",
+    "total_time_minutes": 6.0
+  },
+  {
+    "repo": "vm-adapter",
+    "workflow_name": ".github/workflows/ci-latest-release.yml",
+    "run_id": 12542314642,
+    "status": "failure",
+    "created_at": "2024-12-30T05:21:00Z",
+    "html_url": "https://github.com/accuknox/vm-adapter/actions/runs/12542314642",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12481735581,
+    "status": "failure",
+    "created_at": "2024-12-24T12:32:32Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12481735581",
+    "total_time_minutes": 15.0
+  },
+  {
+    "repo": "data-pipeline-api",
+    "workflow_name": ".github/workflows/action.yaml",
+    "run_id": 12427177362,
+    "status": "failure",
+    "created_at": "2024-12-20T07:11:52Z",
+    "html_url": "https://github.com/accuknox/data-pipeline-api/actions/runs/12427177362",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "observability-api",
+    "workflow_name": "observability-api Workflow",
+    "run_id": 12410817286,
+    "status": "failure",
+    "created_at": "2024-12-19T10:25:46Z",
+    "html_url": "https://github.com/accuknox/observability-api/actions/runs/12410817286",
+    "total_time_minutes": 11.0
+  },
+  {
+    "repo": "vm-adapter",
+    "workflow_name": ".github/workflows/ci-latest-release.yml",
+    "run_id": 12542307762,
+    "status": "failure",
+    "created_at": "2024-12-30T05:20:09Z",
+    "html_url": "https://github.com/accuknox/vm-adapter/actions/runs/12542307762",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12479682779,
+    "status": "failure",
+    "created_at": "2024-12-24T09:15:44Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12479682779",
+    "total_time_minutes": 15.0
+  },
+  {
+    "repo": "data-pipeline-api",
+    "workflow_name": "data-pipeline-api Workflow",
+    "run_id": 12426515853,
+    "status": "failure",
+    "created_at": "2024-12-20T06:11:06Z",
+    "html_url": "https://github.com/accuknox/data-pipeline-api/actions/runs/12426515853",
+    "total_time_minutes": 7.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12463774816,
+    "status": "failure",
+    "created_at": "2024-12-23T08:31:52Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12463774816",
+    "total_time_minutes": 15.0
+  },
+  {
+    "repo": "channel-integration",
+    "workflow_name": "channel-integration Workflow",
+    "run_id": 12430215625,
+    "status": "failure",
+    "created_at": "2024-12-20T10:59:55Z",
+    "html_url": "https://github.com/accuknox/channel-integration/actions/runs/12430215625",
+    "total_time_minutes": 3.0
+  },
+  {
+    "repo": "Helm-charts",
+    "workflow_name": "Validate Helm Charts",
+    "run_id": 12543360466,
+    "status": "failure",
+    "created_at": "2024-12-30T07:23:25Z",
+    "html_url": "https://github.com/accuknox/Helm-charts/actions/runs/12543360466",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "RAT",
+    "workflow_name": "Test tool output",
+    "run_id": 12477289428,
+    "status": "failure",
+    "created_at": "2024-12-24T05:10:31Z",
+    "html_url": "https://github.com/accuknox/RAT/actions/runs/12477289428",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "vulnerability-service",
+    "workflow_name": "Snyk-Trivy Pipeline",
+    "run_id": 12481956748,
+    "status": "failure",
+    "created_at": "2024-12-24T12:53:36Z",
+    "html_url": "https://github.com/accuknox/vulnerability-service/actions/runs/12481956748",
+    "total_time_minutes": 5.0
+  },
+  {
+    "repo": "data-pipeline-api",
+    "workflow_name": "data-pipeline-api Workflow",
+    "run_id": 12426467340,
+    "status": "failure",
+    "created_at": "2024-12-20T06:06:54Z",
+    "html_url": "https://github.com/accuknox/data-pipeline-api/actions/runs/12426467340",
+    "total_time_minutes": 3.0
+  },
+  {
+    "repo": "UI-E2E-testing",
+    "workflow_name": "Lint",
+    "run_id": 12542396284,
+    "status": "failure",
+    "created_at": "2024-12-30T05:30:59Z",
+    "html_url": "https://github.com/accuknox/UI-E2E-testing/actions/runs/12542396284",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "channel-integration",
+    "workflow_name": "channel-integration Workflow",
+    "run_id": 12430207697,
+    "status": "failure",
+    "created_at": "2024-12-20T10:59:15Z",
+    "html_url": "https://github.com/accuknox/channel-integration/actions/runs/12430207697",
+    "total_time_minutes": 3.0
+  },
+  {
+    "repo": "Helm-charts",
+    "workflow_name": "Trigger Deployment workflow",
+    "run_id": 12541944701,
+    "status": "failure",
+    "created_at": "2024-12-30T04:33:13Z",
+    "html_url": "https://github.com/accuknox/Helm-charts/actions/runs/12541944701",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "observability-api",
+    "workflow_name": "observability-api Workflow",
+    "run_id": 12389638907,
+    "status": "failure",
+    "created_at": "2024-12-18T09:02:04Z",
+    "html_url": "https://github.com/accuknox/observability-api/actions/runs/12389638907",
+    "total_time_minutes": 6.0
+  },
+  {
+    "repo": "data-pipeline-api",
+    "workflow_name": "data-pipeline-api Workflow",
+    "run_id": 12426462535,
+    "status": "failure",
+    "created_at": "2024-12-20T06:06:27Z",
+    "html_url": "https://github.com/accuknox/data-pipeline-api/actions/runs/12426462535",
+    "total_time_minutes": 4.0
+  },
+  {
+    "repo": "channel-integration",
+    "workflow_name": "channel-integration Workflow",
+    "run_id": 12430056414,
+    "status": "failure",
+    "created_at": "2024-12-20T10:47:13Z",
+    "html_url": "https://github.com/accuknox/channel-integration/actions/runs/12430056414",
+    "total_time_minutes": 3.0
+  },
+  {
+    "repo": "data-pipeline-api",
+    "workflow_name": "data-pipeline-api Workflow",
+    "run_id": 12426398245,
+    "status": "failure",
+    "created_at": "2024-12-20T06:00:53Z",
+    "html_url": "https://github.com/accuknox/data-pipeline-api/actions/runs/12426398245",
+    "total_time_minutes": 3.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12463600768,
+    "status": "failure",
+    "created_at": "2024-12-23T08:17:55Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12463600768",
+    "total_time_minutes": 16.0
+  },
+  {
+    "repo": "channel-integration",
+    "workflow_name": "channel-integration Workflow",
+    "run_id": 12430029548,
+    "status": "failure",
+    "created_at": "2024-12-20T10:45:14Z",
+    "html_url": "https://github.com/accuknox/channel-integration/actions/runs/12430029548",
+    "total_time_minutes": 3.0
+  },
+  {
+    "repo": "Helm-charts",
+    "workflow_name": "Validate Helm Charts",
+    "run_id": 12482460190,
+    "status": "failure",
+    "created_at": "2024-12-24T13:40:06Z",
+    "html_url": "https://github.com/accuknox/Helm-charts/actions/runs/12482460190",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "data-pipeline-api",
+    "workflow_name": "data-pipeline-api Workflow",
+    "run_id": 12426361933,
+    "status": "failure",
+    "created_at": "2024-12-20T05:56:40Z",
+    "html_url": "https://github.com/accuknox/data-pipeline-api/actions/runs/12426361933",
+    "total_time_minutes": 3.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test sonarqube code scan reusable workflow",
+    "run_id": 12445360731,
+    "status": "failure",
+    "created_at": "2024-12-21T12:57:04Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12445360731",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "Helm-charts",
+    "workflow_name": "Validate Helm Charts",
+    "run_id": 12482174039,
+    "status": "failure",
+    "created_at": "2024-12-24T13:12:58Z",
+    "html_url": "https://github.com/accuknox/Helm-charts/actions/runs/12482174039",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "vulnerability-service",
+    "workflow_name": "Snyk-Trivy Pipeline",
+    "run_id": 12478801617,
+    "status": "failure",
+    "created_at": "2024-12-24T07:52:36Z",
+    "html_url": "https://github.com/accuknox/vulnerability-service/actions/runs/12478801617",
+    "total_time_minutes": 5.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12463600564,
+    "status": "failure",
+    "created_at": "2024-12-23T08:17:53Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12463600564",
+    "total_time_minutes": 15.0
+  },
+  {
+    "repo": "data-pipeline-api",
+    "workflow_name": "data-pipeline-api Workflow",
+    "run_id": 12426350211,
+    "status": "failure",
+    "created_at": "2024-12-20T05:55:07Z",
+    "html_url": "https://github.com/accuknox/data-pipeline-api/actions/runs/12426350211",
+    "total_time_minutes": 3.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Version availability check",
+    "run_id": 12445360725,
+    "status": "failure",
+    "created_at": "2024-12-21T12:57:04Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12445360725",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "Helm-charts",
+    "workflow_name": "Validate Helm Charts",
+    "run_id": 12480691603,
+    "status": "failure",
+    "created_at": "2024-12-24T10:48:20Z",
+    "html_url": "https://github.com/accuknox/Helm-charts/actions/runs/12480691603",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "data-pipeline-api",
+    "workflow_name": "data-pipeline-api Workflow",
+    "run_id": 12426308561,
+    "status": "failure",
+    "created_at": "2024-12-20T05:50:05Z",
+    "html_url": "https://github.com/accuknox/data-pipeline-api/actions/runs/12426308561",
+    "total_time_minutes": 3.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Dependency check",
+    "run_id": 12445360721,
+    "status": "failure",
+    "created_at": "2024-12-21T12:57:04Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12445360721",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "Helm-charts",
+    "workflow_name": "Validate Helm Charts",
+    "run_id": 12479382666,
+    "status": "failure",
+    "created_at": "2024-12-24T08:48:05Z",
+    "html_url": "https://github.com/accuknox/Helm-charts/actions/runs/12479382666",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "observability-api",
+    "workflow_name": "observability-api Workflow",
+    "run_id": 12369515430,
+    "status": "failure",
+    "created_at": "2024-12-17T08:53:29Z",
+    "html_url": "https://github.com/accuknox/observability-api/actions/runs/12369515430",
+    "total_time_minutes": 6.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & ECR Push",
+    "run_id": 12445360724,
+    "status": "failure",
+    "created_at": "2024-12-21T12:57:04Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12445360724",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "vulnerability-service",
+    "workflow_name": "vulnerability-service Workflow",
+    "run_id": 12477882977,
+    "status": "failure",
+    "created_at": "2024-12-24T06:17:28Z",
+    "html_url": "https://github.com/accuknox/vulnerability-service/actions/runs/12477882977",
+    "total_time_minutes": 13.0
+  },
+  {
+    "repo": "observability-api",
+    "workflow_name": "observability-api Workflow",
+    "run_id": 12369460790,
+    "status": "failure",
+    "created_at": "2024-12-17T08:50:04Z",
+    "html_url": "https://github.com/accuknox/observability-api/actions/runs/12369460790",
+    "total_time_minutes": 7.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & scan",
+    "run_id": 12445360735,
+    "status": "failure",
+    "created_at": "2024-12-21T12:57:04Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12445360735",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "vulnerability-service",
+    "workflow_name": "vulnerability-service Workflow",
+    "run_id": 12477762774,
+    "status": "failure",
+    "created_at": "2024-12-24T06:05:42Z",
+    "html_url": "https://github.com/accuknox/vulnerability-service/actions/runs/12477762774",
+    "total_time_minutes": 9.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12463460634,
+    "status": "failure",
+    "created_at": "2024-12-23T08:06:51Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12463460634",
+    "total_time_minutes": 14.0
+  },
+  {
+    "repo": "observability-api",
+    "workflow_name": "observability-api Workflow",
+    "run_id": 12369024684,
+    "status": "failure",
+    "created_at": "2024-12-17T08:20:50Z",
+    "html_url": "https://github.com/accuknox/observability-api/actions/runs/12369024684",
+    "total_time_minutes": 7.0
+  },
+  {
+    "repo": "vulnerability-service",
+    "workflow_name": "vulnerability-service Workflow",
+    "run_id": 12477643169,
+    "status": "failure",
+    "created_at": "2024-12-24T05:51:14Z",
+    "html_url": "https://github.com/accuknox/vulnerability-service/actions/runs/12477643169",
+    "total_time_minutes": 9.0
+  },
+  {
+    "repo": "registry-scanning",
+    "workflow_name": "registry scan Workflow",
+    "run_id": 12347054227,
+    "status": "failure",
+    "created_at": "2024-12-16T06:18:24Z",
+    "html_url": "https://github.com/accuknox/registry-scanning/actions/runs/12347054227",
+    "total_time_minutes": 7.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12463460462,
+    "status": "failure",
+    "created_at": "2024-12-23T08:06:51Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12463460462",
+    "total_time_minutes": 15.0
+  },
+  {
+    "repo": "Helm-charts",
+    "workflow_name": "Trigger Deployment workflow",
+    "run_id": 12478589122,
+    "status": "failure",
+    "created_at": "2024-12-24T07:29:04Z",
+    "html_url": "https://github.com/accuknox/Helm-charts/actions/runs/12478589122",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "RAT",
+    "workflow_name": "Test tool output",
+    "run_id": 12414507811,
+    "status": "failure",
+    "created_at": "2024-12-19T14:19:52Z",
+    "html_url": "https://github.com/accuknox/RAT/actions/runs/12414507811",
+    "total_time_minutes": 4.0
+  },
+  {
+    "repo": "vulnerability-service",
+    "workflow_name": "vulnerability-service Workflow",
+    "run_id": 12477525045,
+    "status": "failure",
+    "created_at": "2024-12-24T05:36:25Z",
+    "html_url": "https://github.com/accuknox/vulnerability-service/actions/runs/12477525045",
+    "total_time_minutes": 9.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Slack Failure-Notify",
+    "run_id": 12445360722,
+    "status": "failure",
+    "created_at": "2024-12-21T12:57:04Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12445360722",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12463426407,
+    "status": "failure",
+    "created_at": "2024-12-23T08:04:16Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12463426407",
+    "total_time_minutes": 14.0
+  },
+  {
+    "repo": "help",
+    "workflow_name": "ci",
+    "run_id": 12368639825,
+    "status": "failure",
+    "created_at": "2024-12-17T07:52:39Z",
+    "html_url": "https://github.com/accuknox/help/actions/runs/12368639825",
+    "total_time_minutes": 2.0
+  },
+  {
+    "repo": "vulnerability-service",
+    "workflow_name": "vulnerability-service Workflow",
+    "run_id": 12477468613,
+    "status": "failure",
+    "created_at": "2024-12-24T05:30:20Z",
+    "html_url": "https://github.com/accuknox/vulnerability-service/actions/runs/12477468613",
+    "total_time_minutes": 8.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12463426529,
+    "status": "failure",
+    "created_at": "2024-12-23T08:04:16Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12463426529",
+    "total_time_minutes": 15.0
+  },
+  {
+    "repo": "vulnerability-service",
+    "workflow_name": "vulnerability-service Workflow",
+    "run_id": 12477373911,
+    "status": "failure",
+    "created_at": "2024-12-24T05:20:11Z",
+    "html_url": "https://github.com/accuknox/vulnerability-service/actions/runs/12477373911",
+    "total_time_minutes": 8.0
+  },
+  {
+    "repo": "SRE",
+    "workflow_name": "Run Python Script and Push to S3 demo",
+    "run_id": 12488231536,
+    "status": "failure",
+    "created_at": "2024-12-25T01:57:48Z",
+    "html_url": "https://github.com/accuknox/SRE/actions/runs/12488231536",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "deo",
+    "workflow_name": "deo Workflow",
+    "run_id": 12431690860,
+    "status": "failure",
+    "created_at": "2024-12-20T12:46:42Z",
+    "html_url": "https://github.com/accuknox/deo/actions/runs/12431690860",
+    "total_time_minutes": 7.0
+  },
+  {
+    "repo": "data-pipeline-api",
+    "workflow_name": "data-pipeline-api Workflow",
+    "run_id": 12368566091,
+    "status": "failure",
+    "created_at": "2024-12-17T07:46:40Z",
+    "html_url": "https://github.com/accuknox/data-pipeline-api/actions/runs/12368566091",
+    "total_time_minutes": 6.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & ECR Push",
+    "run_id": 12445337622,
+    "status": "failure",
+    "created_at": "2024-12-21T12:53:42Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12445337622",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "RAT",
+    "workflow_name": "Test tool output",
+    "run_id": 12412304012,
+    "status": "failure",
+    "created_at": "2024-12-19T12:03:59Z",
+    "html_url": "https://github.com/accuknox/RAT/actions/runs/12412304012",
+    "total_time_minutes": 3.0
+  },
+  {
+    "repo": "vulnerability-service",
+    "workflow_name": "Snyk-Trivy Pipeline",
+    "run_id": 12477294412,
+    "status": "failure",
+    "created_at": "2024-12-24T05:11:02Z",
+    "html_url": "https://github.com/accuknox/vulnerability-service/actions/runs/12477294412",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "data-pipeline-api",
+    "workflow_name": "data-pipeline-api Workflow",
+    "run_id": 12367387219,
+    "status": "failure",
+    "created_at": "2024-12-17T06:08:42Z",
+    "html_url": "https://github.com/accuknox/data-pipeline-api/actions/runs/12367387219",
+    "total_time_minutes": 6.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12463321241,
+    "status": "failure",
+    "created_at": "2024-12-23T07:54:37Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12463321241",
+    "total_time_minutes": 15.0
+  },
+  {
+    "repo": "vulnerability-service",
+    "workflow_name": "vulnerability-service Workflow",
+    "run_id": 12477282852,
+    "status": "failure",
+    "created_at": "2024-12-24T05:09:47Z",
+    "html_url": "https://github.com/accuknox/vulnerability-service/actions/runs/12477282852",
+    "total_time_minutes": 5.0
+  },
+  {
+    "repo": "data-pipeline-api",
+    "workflow_name": "data-pipeline-api Workflow",
+    "run_id": 12367365346,
+    "status": "failure",
+    "created_at": "2024-12-17T06:06:56Z",
+    "html_url": "https://github.com/accuknox/data-pipeline-api/actions/runs/12367365346",
+    "total_time_minutes": 6.0
+  },
+  {
+    "repo": "vulnerability-service",
+    "workflow_name": "vulnerability-service Workflow",
+    "run_id": 12477182798,
+    "status": "failure",
+    "created_at": "2024-12-24T04:58:48Z",
+    "html_url": "https://github.com/accuknox/vulnerability-service/actions/runs/12477182798",
+    "total_time_minutes": 9.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12463320941,
+    "status": "failure",
+    "created_at": "2024-12-23T07:54:35Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12463320941",
+    "total_time_minutes": 15.0
+  },
+  {
+    "repo": "vulnerability-service",
+    "workflow_name": "vulnerability-service Workflow",
+    "run_id": 12477159904,
+    "status": "failure",
+    "created_at": "2024-12-24T04:55:08Z",
+    "html_url": "https://github.com/accuknox/vulnerability-service/actions/runs/12477159904",
+    "total_time_minutes": 8.0
+  },
+  {
+    "repo": "channel-integration",
+    "workflow_name": "channel-integration Workflow",
+    "run_id": 12360432073,
+    "status": "failure",
+    "created_at": "2024-12-16T20:08:06Z",
+    "html_url": "https://github.com/accuknox/channel-integration/actions/runs/12360432073",
+    "total_time_minutes": 6.0
+  },
+  {
+    "repo": "data-pipeline-api",
+    "workflow_name": "data-pipeline-api Workflow",
+    "run_id": 12366899256,
+    "status": "failure",
+    "created_at": "2024-12-17T05:21:43Z",
+    "html_url": "https://github.com/accuknox/data-pipeline-api/actions/runs/12366899256",
+    "total_time_minutes": 7.0
+  },
+  {
+    "repo": "vulnerability-service",
+    "workflow_name": "Snyk-Trivy Pipeline",
+    "run_id": 12477155077,
+    "status": "failure",
+    "created_at": "2024-12-24T04:54:23Z",
+    "html_url": "https://github.com/accuknox/vulnerability-service/actions/runs/12477155077",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "channel-integration",
+    "workflow_name": "channel-integration Workflow",
+    "run_id": 12360414640,
+    "status": "failure",
+    "created_at": "2024-12-16T20:07:01Z",
+    "html_url": "https://github.com/accuknox/channel-integration/actions/runs/12360414640",
+    "total_time_minutes": 6.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Version availability check",
+    "run_id": 12445337618,
+    "status": "failure",
+    "created_at": "2024-12-21T12:53:42Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12445337618",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "data-pipeline-api",
+    "workflow_name": "data-pipeline-api Workflow",
+    "run_id": 12366893096,
+    "status": "failure",
+    "created_at": "2024-12-17T05:21:08Z",
+    "html_url": "https://github.com/accuknox/data-pipeline-api/actions/runs/12366893096",
+    "total_time_minutes": 6.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12462374940,
+    "status": "failure",
+    "created_at": "2024-12-23T06:27:16Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12462374940",
+    "total_time_minutes": 15.0
+  },
+  {
+    "repo": "vulnerability-service",
+    "workflow_name": "vulnerability-service Workflow",
+    "run_id": 12476784477,
+    "status": "failure",
+    "created_at": "2024-12-24T04:08:52Z",
+    "html_url": "https://github.com/accuknox/vulnerability-service/actions/runs/12476784477",
+    "total_time_minutes": 8.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test sonarqube code scan reusable workflow",
+    "run_id": 12445337619,
+    "status": "failure",
+    "created_at": "2024-12-21T12:53:42Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12445337619",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "data-pipeline-api",
+    "workflow_name": "data-pipeline-api Workflow",
+    "run_id": 12366883548,
+    "status": "failure",
+    "created_at": "2024-12-17T05:20:14Z",
+    "html_url": "https://github.com/accuknox/data-pipeline-api/actions/runs/12366883548",
+    "total_time_minutes": 6.0
+  },
+  {
+    "repo": "vulnerability-service",
+    "workflow_name": "vulnerability-service Workflow",
+    "run_id": 12473147523,
+    "status": "failure",
+    "created_at": "2024-12-23T21:23:33Z",
+    "html_url": "https://github.com/accuknox/vulnerability-service/actions/runs/12473147523",
+    "total_time_minutes": 9.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Slack Failure-Notify",
+    "run_id": 12445337610,
+    "status": "failure",
+    "created_at": "2024-12-21T12:53:42Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12445337610",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "data-pipeline-api",
+    "workflow_name": "data-pipeline-api Workflow",
+    "run_id": 12360222260,
+    "status": "failure",
+    "created_at": "2024-12-16T19:53:30Z",
+    "html_url": "https://github.com/accuknox/data-pipeline-api/actions/runs/12360222260",
+    "total_time_minutes": 11.0
+  },
+  {
+    "repo": "vulnerability-service",
+    "workflow_name": "vulnerability-service Workflow",
+    "run_id": 12473115964,
+    "status": "failure",
+    "created_at": "2024-12-23T21:20:28Z",
+    "html_url": "https://github.com/accuknox/vulnerability-service/actions/runs/12473115964",
+    "total_time_minutes": 9.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & scan",
+    "run_id": 12445337627,
+    "status": "failure",
+    "created_at": "2024-12-21T12:53:42Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12445337627",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "data-pipeline-api",
+    "workflow_name": "data-pipeline-api Workflow",
+    "run_id": 12359114580,
+    "status": "failure",
+    "created_at": "2024-12-16T18:39:48Z",
+    "html_url": "https://github.com/accuknox/data-pipeline-api/actions/runs/12359114580",
+    "total_time_minutes": 7.0
+  },
+  {
+    "repo": "vulnerability-service",
+    "workflow_name": "vulnerability-service Workflow",
+    "run_id": 12473053119,
+    "status": "failure",
+    "created_at": "2024-12-23T21:14:53Z",
+    "html_url": "https://github.com/accuknox/vulnerability-service/actions/runs/12473053119",
+    "total_time_minutes": 9.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Dependency check",
+    "run_id": 12445337614,
+    "status": "failure",
+    "created_at": "2024-12-21T12:53:42Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12445337614",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12462262744,
+    "status": "failure",
+    "created_at": "2024-12-23T06:16:57Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12462262744",
+    "total_time_minutes": 15.0
+  },
+  {
+    "repo": "data-pipeline-api",
+    "workflow_name": "data-pipeline-api Workflow",
+    "run_id": 12358783158,
+    "status": "failure",
+    "created_at": "2024-12-16T18:18:23Z",
+    "html_url": "https://github.com/accuknox/data-pipeline-api/actions/runs/12358783158",
+    "total_time_minutes": 6.0
+  },
+  {
+    "repo": "vulnerability-service",
+    "workflow_name": "vulnerability-service Workflow",
+    "run_id": 12472956545,
+    "status": "failure",
+    "created_at": "2024-12-23T21:06:16Z",
+    "html_url": "https://github.com/accuknox/vulnerability-service/actions/runs/12472956545",
+    "total_time_minutes": 9.0
+  },
+  {
+    "repo": "vulnerability-service",
+    "workflow_name": "vulnerability-service Workflow",
+    "run_id": 12472848779,
+    "status": "failure",
+    "created_at": "2024-12-23T20:56:10Z",
+    "html_url": "https://github.com/accuknox/vulnerability-service/actions/runs/12472848779",
+    "total_time_minutes": 9.0
+  },
+  {
+    "repo": "channel-integration",
+    "workflow_name": "channel-integration Workflow",
+    "run_id": 12348653090,
+    "status": "failure",
+    "created_at": "2024-12-16T08:25:05Z",
+    "html_url": "https://github.com/accuknox/channel-integration/actions/runs/12348653090",
+    "total_time_minutes": 14.0
+  },
+  {
+    "repo": "vulnerability-service",
+    "workflow_name": "vulnerability-service Workflow",
+    "run_id": 12472789286,
+    "status": "failure",
+    "created_at": "2024-12-23T20:49:37Z",
+    "html_url": "https://github.com/accuknox/vulnerability-service/actions/runs/12472789286",
+    "total_time_minutes": 9.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Slack Failure-Notify",
+    "run_id": 12445250327,
+    "status": "failure",
+    "created_at": "2024-12-21T12:40:44Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12445250327",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12462091645,
+    "status": "failure",
+    "created_at": "2024-12-23T06:01:46Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12462091645",
+    "total_time_minutes": 15.0
+  },
+  {
+    "repo": "SRE",
+    "workflow_name": "Run Python Script and Push to S3 demo",
+    "run_id": 12475669568,
+    "status": "failure",
+    "created_at": "2024-12-24T01:58:36Z",
+    "html_url": "https://github.com/accuknox/SRE/actions/runs/12475669568",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "vulnerability-service",
+    "workflow_name": "vulnerability-service Workflow",
+    "run_id": 12472700960,
+    "status": "failure",
+    "created_at": "2024-12-23T20:40:22Z",
+    "html_url": "https://github.com/accuknox/vulnerability-service/actions/runs/12472700960",
+    "total_time_minutes": 10.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12453554108,
+    "status": "failure",
+    "created_at": "2024-12-22T10:42:11Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12453554108",
+    "total_time_minutes": 15.0
+  },
+  {
+    "repo": "Helm-charts",
+    "workflow_name": "Trigger Deployment workflow",
+    "run_id": 12433434553,
+    "status": "failure",
+    "created_at": "2024-12-20T14:46:58Z",
+    "html_url": "https://github.com/accuknox/Helm-charts/actions/runs/12433434553",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "vulnerability-service",
+    "workflow_name": "vulnerability-service Workflow",
+    "run_id": 12472341484,
+    "status": "failure",
+    "created_at": "2024-12-23T20:07:11Z",
+    "html_url": "https://github.com/accuknox/vulnerability-service/actions/runs/12472341484",
+    "total_time_minutes": 8.0
+  },
+  {
+    "repo": "vulnerability-service",
+    "workflow_name": "vulnerability-service Workflow",
+    "run_id": 12462497041,
+    "status": "failure",
+    "created_at": "2024-12-23T06:38:53Z",
+    "html_url": "https://github.com/accuknox/vulnerability-service/actions/runs/12462497041",
+    "total_time_minutes": 9.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Version availability check",
+    "run_id": 12445250319,
+    "status": "failure",
+    "created_at": "2024-12-21T12:40:44Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12445250319",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "RAT",
+    "workflow_name": "Test tool output",
+    "run_id": 12368159258,
+    "status": "failure",
+    "created_at": "2024-12-17T07:15:03Z",
+    "html_url": "https://github.com/accuknox/RAT/actions/runs/12368159258",
+    "total_time_minutes": 3.0
+  },
+  {
+    "repo": "vulnerability-service",
+    "workflow_name": "vulnerability-service Workflow",
+    "run_id": 12462412085,
+    "status": "failure",
+    "created_at": "2024-12-23T06:30:42Z",
+    "html_url": "https://github.com/accuknox/vulnerability-service/actions/runs/12462412085",
+    "total_time_minutes": 9.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & scan",
+    "run_id": 12445250316,
+    "status": "failure",
+    "created_at": "2024-12-21T12:40:44Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12445250316",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12453554061,
+    "status": "failure",
+    "created_at": "2024-12-22T10:42:10Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12453554061",
+    "total_time_minutes": 15.0
+  },
+  {
+    "repo": "vulnerability-service",
+    "workflow_name": "vulnerability-service Workflow",
+    "run_id": 12462285366,
+    "status": "failure",
+    "created_at": "2024-12-23T06:19:05Z",
+    "html_url": "https://github.com/accuknox/vulnerability-service/actions/runs/12462285366",
+    "total_time_minutes": 9.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Dependency check",
+    "run_id": 12445250323,
+    "status": "failure",
+    "created_at": "2024-12-21T12:40:44Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12445250323",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "vulnerability-service",
+    "workflow_name": "vulnerability-service Workflow",
+    "run_id": 12462180879,
+    "status": "failure",
+    "created_at": "2024-12-23T06:09:26Z",
+    "html_url": "https://github.com/accuknox/vulnerability-service/actions/runs/12462180879",
+    "total_time_minutes": 9.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test sonarqube code scan reusable workflow",
+    "run_id": 12445250321,
+    "status": "failure",
+    "created_at": "2024-12-21T12:40:44Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12445250321",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "RAT",
+    "workflow_name": "Test tool output",
+    "run_id": 12367983484,
+    "status": "failure",
+    "created_at": "2024-12-17T07:01:29Z",
+    "html_url": "https://github.com/accuknox/RAT/actions/runs/12367983484",
+    "total_time_minutes": 4.0
+  },
+  {
+    "repo": "UI-E2E-testing",
+    "workflow_name": "Push SonarQube scans to SaaS",
+    "run_id": 12431190693,
+    "status": "failure",
+    "created_at": "2024-12-20T12:11:45Z",
+    "html_url": "https://github.com/accuknox/UI-E2E-testing/actions/runs/12431190693",
+    "total_time_minutes": 2.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & ECR Push",
+    "run_id": 12445250317,
+    "status": "failure",
+    "created_at": "2024-12-21T12:40:44Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12445250317",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "vulnerability-service",
+    "workflow_name": "vulnerability-service Workflow",
+    "run_id": 12462100775,
+    "status": "failure",
+    "created_at": "2024-12-23T06:02:35Z",
+    "html_url": "https://github.com/accuknox/vulnerability-service/actions/runs/12462100775",
+    "total_time_minutes": 9.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12431046784,
+    "status": "failure",
+    "created_at": "2024-12-20T12:01:59Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12431046784",
+    "total_time_minutes": 14.0
+  },
+  {
+    "repo": "RAT",
+    "workflow_name": "Test tool output",
+    "run_id": 12367959179,
+    "status": "failure",
+    "created_at": "2024-12-17T06:59:23Z",
+    "html_url": "https://github.com/accuknox/RAT/actions/runs/12367959179",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & scan",
+    "run_id": 12445119618,
+    "status": "failure",
+    "created_at": "2024-12-21T12:22:36Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12445119618",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "vulnerability-service",
+    "workflow_name": "vulnerability-service Workflow",
+    "run_id": 12462029899,
+    "status": "failure",
+    "created_at": "2024-12-23T05:54:22Z",
+    "html_url": "https://github.com/accuknox/vulnerability-service/actions/runs/12462029899",
+    "total_time_minutes": 8.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12431046986,
+    "status": "failure",
+    "created_at": "2024-12-20T12:01:59Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12431046986",
+    "total_time_minutes": 14.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Slack Failure-Notify",
+    "run_id": 12445119622,
+    "status": "failure",
+    "created_at": "2024-12-21T12:22:36Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12445119622",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "vulnerability-service",
+    "workflow_name": "vulnerability-service Workflow",
+    "run_id": 12461857762,
+    "status": "failure",
+    "created_at": "2024-12-23T05:35:06Z",
+    "html_url": "https://github.com/accuknox/vulnerability-service/actions/runs/12461857762",
+    "total_time_minutes": 9.0
+  },
+  {
+    "repo": "UI-E2E-testing",
+    "workflow_name": "Lint",
+    "run_id": 12430063758,
+    "status": "failure",
+    "created_at": "2024-12-20T10:47:46Z",
+    "html_url": "https://github.com/accuknox/UI-E2E-testing/actions/runs/12430063758",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12426909820,
+    "status": "failure",
+    "created_at": "2024-12-20T06:47:26Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12426909820",
+    "total_time_minutes": 15.0
+  },
+  {
+    "repo": "vulnerability-service",
+    "workflow_name": "vulnerability-service Workflow",
+    "run_id": 12461668097,
+    "status": "failure",
+    "created_at": "2024-12-23T05:15:58Z",
+    "html_url": "https://github.com/accuknox/vulnerability-service/actions/runs/12461668097",
+    "total_time_minutes": 9.0
+  },
+  {
+    "repo": "RAT",
+    "workflow_name": "ci-test-go",
+    "run_id": 12366866847,
+    "status": "failure",
+    "created_at": "2024-12-17T05:18:36Z",
+    "html_url": "https://github.com/accuknox/RAT/actions/runs/12366866847",
+    "total_time_minutes": 5.0
+  },
+  {
+    "repo": "vulnerability-service",
+    "workflow_name": "vulnerability-service Workflow",
+    "run_id": 12461517746,
+    "status": "failure",
+    "created_at": "2024-12-23T05:01:11Z",
+    "html_url": "https://github.com/accuknox/vulnerability-service/actions/runs/12461517746",
+    "total_time_minutes": 9.0
+  },
+  {
+    "repo": "RAT",
+    "workflow_name": "ci-test-go",
+    "run_id": 12366828684,
+    "status": "failure",
+    "created_at": "2024-12-17T05:14:51Z",
+    "html_url": "https://github.com/accuknox/RAT/actions/runs/12366828684",
+    "total_time_minutes": 5.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Version availability check",
+    "run_id": 12445119633,
+    "status": "failure",
+    "created_at": "2024-12-21T12:22:36Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12445119633",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "RAT",
+    "workflow_name": "ci-test-go",
+    "run_id": 12359764119,
+    "status": "failure",
+    "created_at": "2024-12-16T19:22:05Z",
+    "html_url": "https://github.com/accuknox/RAT/actions/runs/12359764119",
+    "total_time_minutes": 5.0
+  },
+  {
+    "repo": "deployments",
+    "workflow_name": "Checks",
+    "run_id": 12462069556,
+    "status": "failure",
+    "created_at": "2024-12-23T05:59:43Z",
+    "html_url": "https://github.com/accuknox/deployments/actions/runs/12462069556",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12415761516,
+    "status": "failure",
+    "created_at": "2024-12-19T15:30:20Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12415761516",
+    "total_time_minutes": 15.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & ECR Push",
+    "run_id": 12445119637,
+    "status": "failure",
+    "created_at": "2024-12-21T12:22:36Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12445119637",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12415456459,
+    "status": "failure",
+    "created_at": "2024-12-19T15:13:24Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12415456459",
+    "total_time_minutes": 12.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Docker Build and Push For K8s Job",
+    "run_id": 12481236553,
+    "status": "failure",
+    "created_at": "2024-12-24T11:42:48Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12481236553",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "UI-E2E-testing",
+    "workflow_name": "Lint",
+    "run_id": 12425376484,
+    "status": "failure",
+    "created_at": "2024-12-20T04:09:42Z",
+    "html_url": "https://github.com/accuknox/UI-E2E-testing/actions/runs/12425376484",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Dependency check",
+    "run_id": 12445119629,
+    "status": "failure",
+    "created_at": "2024-12-21T12:22:36Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12445119629",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12391243494,
+    "status": "failure",
+    "created_at": "2024-12-18T10:38:40Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12391243494",
+    "total_time_minutes": 13.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test sonarqube code scan reusable workflow",
+    "run_id": 12445119630,
+    "status": "failure",
+    "created_at": "2024-12-21T12:22:36Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12445119630",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12391071280,
+    "status": "failure",
+    "created_at": "2024-12-18T10:28:16Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12391071280",
+    "total_time_minutes": 15.0
+  },
+  {
+    "repo": "accuknox-frontend",
+    "workflow_name": "Divy Frontend On Prem Pipeline",
+    "run_id": 12425862390,
+    "status": "failure",
+    "created_at": "2024-12-20T05:04:11Z",
+    "html_url": "https://github.com/accuknox/accuknox-frontend/actions/runs/12425862390",
+    "total_time_minutes": 3.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Docker Build and Push For K8s Job",
+    "run_id": 12481046773,
+    "status": "failure",
+    "created_at": "2024-12-24T11:23:05Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12481046773",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & ECR Push",
+    "run_id": 12445113981,
+    "status": "failure",
+    "created_at": "2024-12-21T12:21:50Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12445113981",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12391070883,
+    "status": "failure",
+    "created_at": "2024-12-18T10:28:14Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12391070883",
+    "total_time_minutes": 15.0
+  },
+  {
+    "repo": "accuknox-frontend",
+    "workflow_name": "Divy Frontend Dev Pipeline",
+    "run_id": 12425862395,
+    "status": "failure",
+    "created_at": "2024-12-20T05:04:11Z",
+    "html_url": "https://github.com/accuknox/accuknox-frontend/actions/runs/12425862395",
+    "total_time_minutes": 5.0
+  },
+  {
+    "repo": "Helm-charts",
+    "workflow_name": "Validate Helm Charts",
+    "run_id": 12417243024,
+    "status": "failure",
+    "created_at": "2024-12-19T16:57:59Z",
+    "html_url": "https://github.com/accuknox/Helm-charts/actions/runs/12417243024",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12371261258,
+    "status": "failure",
+    "created_at": "2024-12-17T10:37:19Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12371261258",
+    "total_time_minutes": 15.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12370347935,
+    "status": "failure",
+    "created_at": "2024-12-17T09:43:09Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12370347935",
+    "total_time_minutes": 15.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Version availability check",
+    "run_id": 12445113973,
+    "status": "failure",
+    "created_at": "2024-12-21T12:21:50Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12445113973",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12368734478,
+    "status": "failure",
+    "created_at": "2024-12-17T08:00:54Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12368734478",
+    "total_time_minutes": 12.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test sonarqube code scan reusable workflow",
+    "run_id": 12445113971,
+    "status": "failure",
+    "created_at": "2024-12-21T12:21:50Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12445113971",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "Helm-charts",
+    "workflow_name": "Validate Helm Charts",
+    "run_id": 12413055402,
+    "status": "failure",
+    "created_at": "2024-12-19T12:51:56Z",
+    "html_url": "https://github.com/accuknox/Helm-charts/actions/runs/12413055402",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12368605213,
+    "status": "failure",
+    "created_at": "2024-12-17T07:49:48Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12368605213",
+    "total_time_minutes": 12.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & scan",
+    "run_id": 12445113970,
+    "status": "failure",
+    "created_at": "2024-12-21T12:21:50Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12445113970",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "Helm-charts",
+    "workflow_name": "Validate Helm Charts",
+    "run_id": 12413021327,
+    "status": "failure",
+    "created_at": "2024-12-19T12:49:39Z",
+    "html_url": "https://github.com/accuknox/Helm-charts/actions/runs/12413021327",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12355320282,
+    "status": "failure",
+    "created_at": "2024-12-16T15:00:14Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12355320282",
+    "total_time_minutes": 13.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Ensure PR titles follow the format \"[CNAPP-<ISSUE_NUMBER>] <ISSUE_TITLE>\"",
+    "run_id": 12480378965,
+    "status": "failure",
+    "created_at": "2024-12-24T10:19:27Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12480378965",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Slack Failure-Notify",
+    "run_id": 12445113964,
+    "status": "failure",
+    "created_at": "2024-12-21T12:21:49Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12445113964",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12355268710,
+    "status": "failure",
+    "created_at": "2024-12-16T14:57:16Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12355268710",
+    "total_time_minutes": 12.0
+  },
+  {
+    "repo": "UI-E2E-testing",
+    "workflow_name": "Lint",
+    "run_id": 12409878516,
+    "status": "failure",
+    "created_at": "2024-12-19T09:27:25Z",
+    "html_url": "https://github.com/accuknox/UI-E2E-testing/actions/runs/12409878516",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "Helm-charts",
+    "workflow_name": "Validate Helm Charts",
+    "run_id": 12411316095,
+    "status": "failure",
+    "created_at": "2024-12-19T10:57:38Z",
+    "html_url": "https://github.com/accuknox/Helm-charts/actions/runs/12411316095",
+    "total_time_minutes": 2.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Dependency check",
+    "run_id": 12445113966,
+    "status": "failure",
+    "created_at": "2024-12-21T12:21:49Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12445113966",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12347351456,
+    "status": "failure",
+    "created_at": "2024-12-16T06:43:52Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12347351456",
+    "total_time_minutes": 14.0
+  },
+  {
+    "repo": "Helm-charts",
+    "workflow_name": "Validate Helm Charts",
+    "run_id": 12411047439,
+    "status": "failure",
+    "created_at": "2024-12-19T10:39:53Z",
+    "html_url": "https://github.com/accuknox/Helm-charts/actions/runs/12411047439",
+    "total_time_minutes": 2.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12347351221,
+    "status": "failure",
+    "created_at": "2024-12-16T06:43:51Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12347351221",
+    "total_time_minutes": 14.0
+  },
+  {
+    "repo": "UI-E2E-testing",
+    "workflow_name": "Lint",
+    "run_id": 12406875329,
+    "status": "failure",
+    "created_at": "2024-12-19T05:31:19Z",
+    "html_url": "https://github.com/accuknox/UI-E2E-testing/actions/runs/12406875329",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Slack Failure-Notify",
+    "run_id": 12445041764,
+    "status": "failure",
+    "created_at": "2024-12-21T12:11:37Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12445041764",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & scan",
+    "run_id": 12445041761,
+    "status": "failure",
+    "created_at": "2024-12-21T12:11:37Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12445041761",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & ECR Push",
+    "run_id": 12445041771,
+    "status": "failure",
+    "created_at": "2024-12-21T12:11:37Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12445041771",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Dependency check",
+    "run_id": 12445041752,
+    "status": "failure",
+    "created_at": "2024-12-21T12:11:37Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12445041752",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test sonarqube code scan reusable workflow",
+    "run_id": 12445041766,
+    "status": "failure",
+    "created_at": "2024-12-21T12:11:37Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12445041766",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Version availability check",
+    "run_id": 12445041756,
+    "status": "failure",
+    "created_at": "2024-12-21T12:11:37Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12445041756",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test sonarqube code scan reusable workflow",
+    "run_id": 12444951206,
+    "status": "failure",
+    "created_at": "2024-12-21T11:59:47Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12444951206",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & ECR Push",
+    "run_id": 12444951193,
+    "status": "failure",
+    "created_at": "2024-12-21T11:59:46Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12444951193",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Dependency check",
+    "run_id": 12444951199,
+    "status": "failure",
+    "created_at": "2024-12-21T11:59:46Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12444951199",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Ensure PR titles follow the format \"[CNAPP-<ISSUE_NUMBER>] <ISSUE_TITLE>\"",
+    "run_id": 12477831610,
+    "status": "failure",
+    "created_at": "2024-12-24T06:12:17Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12477831610",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Slack Failure-Notify",
+    "run_id": 12444951201,
+    "status": "failure",
+    "created_at": "2024-12-21T11:59:46Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12444951201",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "Helm-charts",
+    "workflow_name": "Trigger Deployment workflow",
+    "run_id": 12371144780,
+    "status": "failure",
+    "created_at": "2024-12-17T10:30:23Z",
+    "html_url": "https://github.com/accuknox/Helm-charts/actions/runs/12371144780",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & scan",
+    "run_id": 12444951203,
+    "status": "failure",
+    "created_at": "2024-12-21T11:59:46Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12444951203",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Linting pipeline for divy application",
+    "run_id": 12477728889,
+    "status": "failure",
+    "created_at": "2024-12-24T06:02:30Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12477728889",
+    "total_time_minutes": 5.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Version availability check",
+    "run_id": 12444951195,
+    "status": "failure",
+    "created_at": "2024-12-21T11:59:46Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12444951195",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Ensure PR titles follow the format \"[CNAPP-<ISSUE_NUMBER>] <ISSUE_TITLE>\"",
+    "run_id": 12477728887,
+    "status": "failure",
+    "created_at": "2024-12-24T06:02:30Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12477728887",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "UI-E2E-testing",
+    "workflow_name": "Lint",
+    "run_id": 12372544692,
+    "status": "failure",
+    "created_at": "2024-12-17T11:59:31Z",
+    "html_url": "https://github.com/accuknox/UI-E2E-testing/actions/runs/12372544692",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Slack Failure-Notify",
+    "run_id": 12444945367,
+    "status": "failure",
+    "created_at": "2024-12-21T11:58:12Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12444945367",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "Helm-charts",
+    "workflow_name": "Validate Helm Charts",
+    "run_id": 12367895100,
+    "status": "failure",
+    "created_at": "2024-12-17T06:53:05Z",
+    "html_url": "https://github.com/accuknox/Helm-charts/actions/runs/12367895100",
+    "total_time_minutes": 2.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Docker Build and Push For K8s Job",
+    "run_id": 12477648499,
+    "status": "failure",
+    "created_at": "2024-12-24T05:51:53Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12477648499",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "Helm-charts",
+    "workflow_name": "Trigger Deployment workflow",
+    "run_id": 12367717887,
+    "status": "failure",
+    "created_at": "2024-12-17T06:37:37Z",
+    "html_url": "https://github.com/accuknox/Helm-charts/actions/runs/12367717887",
+    "total_time_minutes": 2.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Dependency check",
+    "run_id": 12444945370,
+    "status": "failure",
+    "created_at": "2024-12-21T11:58:12Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12444945370",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "accuknox-frontend",
+    "workflow_name": "Divy Frontend On Prem Pipeline",
+    "run_id": 12394581744,
+    "status": "failure",
+    "created_at": "2024-12-18T14:04:41Z",
+    "html_url": "https://github.com/accuknox/accuknox-frontend/actions/runs/12394581744",
+    "total_time_minutes": 3.0
+  },
+  {
+    "repo": "Helm-charts",
+    "workflow_name": "Validate Helm Charts",
+    "run_id": 12367372789,
+    "status": "failure",
+    "created_at": "2024-12-17T06:07:35Z",
+    "html_url": "https://github.com/accuknox/Helm-charts/actions/runs/12367372789",
+    "total_time_minutes": 2.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & scan",
+    "run_id": 12444945373,
+    "status": "failure",
+    "created_at": "2024-12-21T11:58:12Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12444945373",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Docker Build and Push For K8s Job",
+    "run_id": 12477395242,
+    "status": "failure",
+    "created_at": "2024-12-24T05:22:33Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12477395242",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "accuknox-frontend",
+    "workflow_name": "Divy Frontend Dev Pipeline",
+    "run_id": 12394581780,
+    "status": "failure",
+    "created_at": "2024-12-18T14:04:41Z",
+    "html_url": "https://github.com/accuknox/accuknox-frontend/actions/runs/12394581780",
+    "total_time_minutes": 5.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test sonarqube code scan reusable workflow",
+    "run_id": 12444945359,
+    "status": "failure",
+    "created_at": "2024-12-21T11:58:12Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12444945359",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "UI-E2E-testing",
+    "workflow_name": "Lint",
+    "run_id": 12372184637,
+    "status": "failure",
+    "created_at": "2024-12-17T11:34:28Z",
+    "html_url": "https://github.com/accuknox/UI-E2E-testing/actions/runs/12372184637",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "accuknox-frontend",
+    "workflow_name": "Push SonarQube scans to SaaS",
+    "run_id": 12394581765,
+    "status": "failure",
+    "created_at": "2024-12-18T14:04:41Z",
+    "html_url": "https://github.com/accuknox/accuknox-frontend/actions/runs/12394581765",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "Helm-charts",
+    "workflow_name": "Validate Helm Charts",
+    "run_id": 12351520523,
+    "status": "failure",
+    "created_at": "2024-12-16T11:17:53Z",
+    "html_url": "https://github.com/accuknox/Helm-charts/actions/runs/12351520523",
+    "total_time_minutes": 2.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Version availability check",
+    "run_id": 12444945371,
+    "status": "failure",
+    "created_at": "2024-12-21T11:58:12Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12444945371",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & ECR Push",
+    "run_id": 12444945369,
+    "status": "failure",
+    "created_at": "2024-12-21T11:58:12Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12444945369",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Linting pipeline for divy application",
+    "run_id": 12477105184,
+    "status": "failure",
+    "created_at": "2024-12-24T04:47:35Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12477105184",
+    "total_time_minutes": 5.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & scan",
+    "run_id": 12444927625,
+    "status": "failure",
+    "created_at": "2024-12-21T11:53:42Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12444927625",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Ensure PR titles follow the format \"[CNAPP-<ISSUE_NUMBER>] <ISSUE_TITLE>\"",
+    "run_id": 12477105179,
+    "status": "failure",
+    "created_at": "2024-12-24T04:47:35Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12477105179",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test sonarqube code scan reusable workflow",
+    "run_id": 12444927637,
+    "status": "failure",
+    "created_at": "2024-12-21T11:53:42Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12444927637",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "accuknox-frontend",
+    "workflow_name": "Push SonarQube scans to SaaS",
+    "run_id": 12373259522,
+    "status": "failure",
+    "created_at": "2024-12-17T12:43:30Z",
+    "html_url": "https://github.com/accuknox/accuknox-frontend/actions/runs/12373259522",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Slack Failure-Notify",
+    "run_id": 12444927629,
+    "status": "failure",
+    "created_at": "2024-12-21T11:53:42Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12444927629",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "UI-E2E-testing",
+    "workflow_name": "Lint",
+    "run_id": 12369035955,
+    "status": "failure",
+    "created_at": "2024-12-17T08:21:37Z",
+    "html_url": "https://github.com/accuknox/UI-E2E-testing/actions/runs/12369035955",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Dependency check",
+    "run_id": 12444927632,
+    "status": "failure",
+    "created_at": "2024-12-21T11:53:42Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12444927632",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Version availability check",
+    "run_id": 12444927638,
+    "status": "failure",
+    "created_at": "2024-12-21T11:53:42Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12444927638",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & ECR Push",
+    "run_id": 12444927630,
+    "status": "failure",
+    "created_at": "2024-12-21T11:53:42Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12444927630",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Version availability check",
+    "run_id": 12444914546,
+    "status": "failure",
+    "created_at": "2024-12-21T11:51:06Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12444914546",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & scan",
+    "run_id": 12444914544,
+    "status": "failure",
+    "created_at": "2024-12-21T11:51:06Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12444914544",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Slack Failure-Notify",
+    "run_id": 12444914541,
+    "status": "failure",
+    "created_at": "2024-12-21T11:51:06Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12444914541",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test sonarqube code scan reusable workflow",
+    "run_id": 12444914543,
+    "status": "failure",
+    "created_at": "2024-12-21T11:51:06Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12444914543",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & ECR Push",
+    "run_id": 12444914550,
+    "status": "failure",
+    "created_at": "2024-12-21T11:51:06Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12444914550",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Dependency check",
+    "run_id": 12444914549,
+    "status": "failure",
+    "created_at": "2024-12-21T11:51:06Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12444914549",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "accuknox-frontend",
+    "workflow_name": "Divy Frontend Dev Pipeline",
+    "run_id": 12366634144,
+    "status": "failure",
+    "created_at": "2024-12-17T04:55:41Z",
+    "html_url": "https://github.com/accuknox/accuknox-frontend/actions/runs/12366634144",
+    "total_time_minutes": 5.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & scan",
+    "run_id": 12444877602,
+    "status": "failure",
+    "created_at": "2024-12-21T11:43:48Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12444877602",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "accuknox-frontend",
+    "workflow_name": "Divy Frontend On Prem Pipeline",
+    "run_id": 12366634146,
+    "status": "failure",
+    "created_at": "2024-12-17T04:55:41Z",
+    "html_url": "https://github.com/accuknox/accuknox-frontend/actions/runs/12366634146",
+    "total_time_minutes": 6.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Dependency check",
+    "run_id": 12444877595,
+    "status": "failure",
+    "created_at": "2024-12-21T11:43:48Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12444877595",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test sonarqube code scan reusable workflow",
+    "run_id": 12444877604,
+    "status": "failure",
+    "created_at": "2024-12-21T11:43:48Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12444877604",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Version availability check",
+    "run_id": 12444877601,
+    "status": "failure",
+    "created_at": "2024-12-21T11:43:48Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12444877601",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "accuknox-frontend",
+    "workflow_name": "Divy Frontend On Prem Pipeline",
+    "run_id": 12353678960,
+    "status": "failure",
+    "created_at": "2024-12-16T13:28:49Z",
+    "html_url": "https://github.com/accuknox/accuknox-frontend/actions/runs/12353678960",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & ECR Push",
+    "run_id": 12444877594,
+    "status": "failure",
+    "created_at": "2024-12-21T11:43:48Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12444877594",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "accuknox-frontend",
+    "workflow_name": "Divy Frontend Dev Pipeline",
+    "run_id": 12353678981,
+    "status": "failure",
+    "created_at": "2024-12-16T13:28:49Z",
+    "html_url": "https://github.com/accuknox/accuknox-frontend/actions/runs/12353678981",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Slack Failure-Notify",
+    "run_id": 12444877598,
+    "status": "failure",
+    "created_at": "2024-12-21T11:43:48Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12444877598",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "deployments",
+    "workflow_name": "Checks",
+    "run_id": 12367908174,
+    "status": "failure",
+    "created_at": "2024-12-17T06:54:08Z",
+    "html_url": "https://github.com/accuknox/deployments/actions/runs/12367908174",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Slack Failure-Notify",
+    "run_id": 12444817074,
+    "status": "failure",
+    "created_at": "2024-12-21T11:32:42Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12444817074",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & scan",
+    "run_id": 12444817120,
+    "status": "failure",
+    "created_at": "2024-12-21T11:32:42Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12444817120",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test sonarqube code scan reusable workflow",
+    "run_id": 12444817077,
+    "status": "failure",
+    "created_at": "2024-12-21T11:32:42Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12444817077",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Ensure PR titles follow the format \"[CNAPP-<ISSUE_NUMBER>] <ISSUE_TITLE>\"",
+    "run_id": 12462309723,
+    "status": "failure",
+    "created_at": "2024-12-23T06:21:15Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12462309723",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & ECR Push",
+    "run_id": 12444817083,
+    "status": "failure",
+    "created_at": "2024-12-21T11:32:42Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12444817083",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Linting pipeline for divy application",
+    "run_id": 12462309727,
+    "status": "failure",
+    "created_at": "2024-12-23T06:21:15Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12462309727",
+    "total_time_minutes": 5.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Version availability check",
+    "run_id": 12444817068,
+    "status": "failure",
+    "created_at": "2024-12-21T11:32:42Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12444817068",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Dependency check",
+    "run_id": 12444817067,
+    "status": "failure",
+    "created_at": "2024-12-21T11:32:42Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12444817067",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "deployments",
+    "workflow_name": "development",
+    "run_id": 12349234894,
+    "status": "failure",
+    "created_at": "2024-12-16T09:02:31Z",
+    "html_url": "https://github.com/accuknox/deployments/actions/runs/12349234894",
+    "total_time_minutes": 49.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Version availability check",
+    "run_id": 12388300029,
+    "status": "failure",
+    "created_at": "2024-12-18T07:27:00Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12388300029",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Development pipeline for TestCases in divy application",
+    "run_id": 12461797129,
+    "status": "failure",
+    "created_at": "2024-12-23T05:29:07Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12461797129",
+    "total_time_minutes": 17.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & scan",
+    "run_id": 12388300026,
+    "status": "failure",
+    "created_at": "2024-12-18T07:27:00Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12388300026",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Docker Build and Push For K8s Job",
+    "run_id": 12461797126,
+    "status": "failure",
+    "created_at": "2024-12-23T05:29:07Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12461797126",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Dependency check",
+    "run_id": 12388300033,
+    "status": "failure",
+    "created_at": "2024-12-18T07:27:00Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12388300033",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Slack Failure-Notify",
+    "run_id": 12388300030,
+    "status": "failure",
+    "created_at": "2024-12-18T07:27:00Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12388300030",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Docker Build and Push For K8s Job",
+    "run_id": 12461655922,
+    "status": "failure",
+    "created_at": "2024-12-23T05:14:43Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12461655922",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & ECR Push",
+    "run_id": 12388300025,
+    "status": "failure",
+    "created_at": "2024-12-18T07:27:00Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12388300025",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test sonarqube code scan reusable workflow",
+    "run_id": 12388300038,
+    "status": "failure",
+    "created_at": "2024-12-18T07:27:00Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12388300038",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Slack Failure-Notify",
+    "run_id": 12366806618,
+    "status": "failure",
+    "created_at": "2024-12-17T05:12:40Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12366806618",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & scan",
+    "run_id": 12366806638,
+    "status": "failure",
+    "created_at": "2024-12-17T05:12:40Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12366806638",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test sonarqube code scan reusable workflow",
+    "run_id": 12366806615,
+    "status": "failure",
+    "created_at": "2024-12-17T05:12:40Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12366806615",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Dependency check",
+    "run_id": 12366806606,
+    "status": "failure",
+    "created_at": "2024-12-17T05:12:40Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12366806606",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Development pipeline for TestCases in divy application",
+    "run_id": 12443835451,
+    "status": "failure",
+    "created_at": "2024-12-21T08:53:25Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12443835451",
+    "total_time_minutes": 6.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Version availability check",
+    "run_id": 12366806622,
+    "status": "failure",
+    "created_at": "2024-12-17T05:12:40Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12366806622",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & ECR Push",
+    "run_id": 12366806607,
+    "status": "failure",
+    "created_at": "2024-12-17T05:12:40Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12366806607",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Development pipeline for TestCases in divy application",
+    "run_id": 12443789309,
+    "status": "failure",
+    "created_at": "2024-12-21T08:44:54Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12443789309",
+    "total_time_minutes": 6.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test sonarqube code scan reusable workflow",
+    "run_id": 12366566436,
+    "status": "failure",
+    "created_at": "2024-12-17T04:48:16Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12366566436",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Development pipeline for TestCases in divy application",
+    "run_id": 12438686371,
+    "status": "failure",
+    "created_at": "2024-12-20T21:24:10Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12438686371",
+    "total_time_minutes": 4.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Linting pipeline for divy application",
+    "run_id": 12438686369,
+    "status": "failure",
+    "created_at": "2024-12-20T21:24:10Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12438686369",
+    "total_time_minutes": 5.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Dependency check",
+    "run_id": 12366566434,
+    "status": "failure",
+    "created_at": "2024-12-17T04:48:16Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12366566434",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Development pipeline for TestCases in divy application",
+    "run_id": 12436494004,
+    "status": "failure",
+    "created_at": "2024-12-20T18:23:31Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12436494004",
+    "total_time_minutes": 3.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & scan",
+    "run_id": 12366566433,
+    "status": "failure",
+    "created_at": "2024-12-17T04:48:16Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12366566433",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Slack Failure-Notify",
+    "run_id": 12366566438,
+    "status": "failure",
+    "created_at": "2024-12-17T04:48:16Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12366566438",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Version availability check",
+    "run_id": 12366566430,
+    "status": "failure",
+    "created_at": "2024-12-17T04:48:16Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12366566430",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Linting pipeline for divy application",
+    "run_id": 12436494003,
+    "status": "failure",
+    "created_at": "2024-12-20T18:23:31Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12436494003",
+    "total_time_minutes": 5.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & ECR Push",
+    "run_id": 12366566441,
+    "status": "failure",
+    "created_at": "2024-12-17T04:48:16Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12366566441",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & scan",
+    "run_id": 12366537710,
+    "status": "failure",
+    "created_at": "2024-12-17T04:45:19Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12366537710",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Development pipeline for TestCases in divy application",
+    "run_id": 12430014000,
+    "status": "failure",
+    "created_at": "2024-12-20T10:44:02Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12430014000",
+    "total_time_minutes": 16.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Slack Failure-Notify",
+    "run_id": 12366537713,
+    "status": "failure",
+    "created_at": "2024-12-17T04:45:19Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12366537713",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & ECR Push",
+    "run_id": 12366537709,
+    "status": "failure",
+    "created_at": "2024-12-17T04:45:19Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12366537709",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Dependency check",
+    "run_id": 12366537704,
+    "status": "failure",
+    "created_at": "2024-12-17T04:45:19Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12366537704",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Development pipeline for TestCases in divy application",
+    "run_id": 12429952776,
+    "status": "failure",
+    "created_at": "2024-12-20T10:39:52Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12429952776",
+    "total_time_minutes": 16.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test sonarqube code scan reusable workflow",
+    "run_id": 12366537711,
+    "status": "failure",
+    "created_at": "2024-12-17T04:45:19Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12366537711",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Version availability check",
+    "run_id": 12366537714,
+    "status": "failure",
+    "created_at": "2024-12-17T04:45:19Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12366537714",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test sonarqube code scan reusable workflow",
+    "run_id": 12350520868,
+    "status": "failure",
+    "created_at": "2024-12-16T10:18:05Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12350520868",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Version availability check",
+    "run_id": 12350520875,
+    "status": "failure",
+    "created_at": "2024-12-16T10:18:05Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12350520875",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Dependency check",
+    "run_id": 12350520867,
+    "status": "failure",
+    "created_at": "2024-12-16T10:18:05Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12350520867",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & scan",
+    "run_id": 12350520860,
+    "status": "failure",
+    "created_at": "2024-12-16T10:18:05Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12350520860",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Slack Failure-Notify",
+    "run_id": 12350520861,
+    "status": "failure",
+    "created_at": "2024-12-16T10:18:05Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12350520861",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & ECR Push",
+    "run_id": 12350520870,
+    "status": "failure",
+    "created_at": "2024-12-16T10:18:05Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12350520870",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Slack Failure-Notify",
+    "run_id": 12350517722,
+    "status": "failure",
+    "created_at": "2024-12-16T10:17:53Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12350517722",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & ECR Push",
+    "run_id": 12350517707,
+    "status": "failure",
+    "created_at": "2024-12-16T10:17:53Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12350517707",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & scan",
+    "run_id": 12350517709,
+    "status": "failure",
+    "created_at": "2024-12-16T10:17:53Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12350517709",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Dependency check",
+    "run_id": 12350517710,
+    "status": "failure",
+    "created_at": "2024-12-16T10:17:53Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12350517710",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test sonarqube code scan reusable workflow",
+    "run_id": 12350517723,
+    "status": "failure",
+    "created_at": "2024-12-16T10:17:53Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12350517723",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Version availability check",
+    "run_id": 12350517703,
+    "status": "failure",
+    "created_at": "2024-12-16T10:17:53Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12350517703",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Dependency check",
+    "run_id": 12350474510,
+    "status": "failure",
+    "created_at": "2024-12-16T10:15:25Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12350474510",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & ECR Push",
+    "run_id": 12350474518,
+    "status": "failure",
+    "created_at": "2024-12-16T10:15:25Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12350474518",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test sonarqube code scan reusable workflow",
+    "run_id": 12350474513,
+    "status": "failure",
+    "created_at": "2024-12-16T10:15:25Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12350474513",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Slack Failure-Notify",
+    "run_id": 12350474501,
+    "status": "failure",
+    "created_at": "2024-12-16T10:15:24Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12350474501",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "divy Workflow",
+    "run_id": 12411096151,
+    "status": "failure",
+    "created_at": "2024-12-19T10:42:59Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12411096151",
+    "total_time_minutes": 8.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Version availability check",
+    "run_id": 12350474496,
+    "status": "failure",
+    "created_at": "2024-12-16T10:15:24Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12350474496",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & scan",
+    "run_id": 12350474493,
+    "status": "failure",
+    "created_at": "2024-12-16T10:15:24Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12350474493",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "divy Workflow",
+    "run_id": 12411093140,
+    "status": "failure",
+    "created_at": "2024-12-19T10:42:46Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12411093140",
+    "total_time_minutes": 8.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Docker Build and Push For K8s Job",
+    "run_id": 12410813752,
+    "status": "failure",
+    "created_at": "2024-12-19T10:25:33Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12410813752",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & scan",
+    "run_id": 12350209094,
+    "status": "failure",
+    "created_at": "2024-12-16T10:00:37Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12350209094",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & ECR Push",
+    "run_id": 12350209088,
+    "status": "failure",
+    "created_at": "2024-12-16T10:00:37Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12350209088",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "divy Workflow",
+    "run_id": 12410727556,
+    "status": "failure",
+    "created_at": "2024-12-19T10:20:13Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12410727556",
+    "total_time_minutes": 9.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Dependency check",
+    "run_id": 12350209117,
+    "status": "failure",
+    "created_at": "2024-12-16T10:00:37Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12350209117",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Docker Build and Push For K8s Job",
+    "run_id": 12410291451,
+    "status": "failure",
+    "created_at": "2024-12-19T09:53:42Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12410291451",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Version availability check",
+    "run_id": 12350209100,
+    "status": "failure",
+    "created_at": "2024-12-16T10:00:37Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12350209100",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Slack Failure-Notify",
+    "run_id": 12350209114,
+    "status": "failure",
+    "created_at": "2024-12-16T10:00:37Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12350209114",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test sonarqube code scan reusable workflow",
+    "run_id": 12350209093,
+    "status": "failure",
+    "created_at": "2024-12-16T10:00:37Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12350209093",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Development pipeline for TestCases in divy application",
+    "run_id": 12401861800,
+    "status": "failure",
+    "created_at": "2024-12-18T21:45:43Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12401861800",
+    "total_time_minutes": 16.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Development pipeline for TestCases in divy application",
+    "run_id": 12394878273,
+    "status": "failure",
+    "created_at": "2024-12-18T14:20:21Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12394878273",
+    "total_time_minutes": 18.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Linting pipeline for divy application",
+    "run_id": 12394878279,
+    "status": "failure",
+    "created_at": "2024-12-18T14:20:21Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12394878279",
+    "total_time_minutes": 5.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Docker Build and Push For K8s Job",
+    "run_id": 12392183883,
+    "status": "failure",
+    "created_at": "2024-12-18T11:38:27Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12392183883",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Development pipeline for TestCases in divy application",
+    "run_id": 12390054910,
+    "status": "failure",
+    "created_at": "2024-12-18T09:27:05Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12390054910",
+    "total_time_minutes": 6.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Development pipeline for TestCases in divy application",
+    "run_id": 12389810292,
+    "status": "failure",
+    "created_at": "2024-12-18T09:12:21Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12389810292",
+    "total_time_minutes": 3.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Linting pipeline for divy application",
+    "run_id": 12389810293,
+    "status": "failure",
+    "created_at": "2024-12-18T09:12:21Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12389810293",
+    "total_time_minutes": 5.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Docker Build and Push For K8s Job",
+    "run_id": 12389697270,
+    "status": "failure",
+    "created_at": "2024-12-18T09:05:26Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12389697270",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Linting pipeline for divy application",
+    "run_id": 12388912501,
+    "status": "failure",
+    "created_at": "2024-12-18T08:14:23Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12388912501",
+    "total_time_minutes": 5.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Development pipeline for TestCases in divy application",
+    "run_id": 12388912470,
+    "status": "failure",
+    "created_at": "2024-12-18T08:14:23Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12388912470",
+    "total_time_minutes": 4.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Development pipeline for TestCases in divy application",
+    "run_id": 12387930801,
+    "status": "failure",
+    "created_at": "2024-12-18T06:56:39Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12387930801",
+    "total_time_minutes": 3.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Linting pipeline for divy application",
+    "run_id": 12387930797,
+    "status": "failure",
+    "created_at": "2024-12-18T06:56:39Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12387930797",
+    "total_time_minutes": 5.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Docker Build and Push For K8s Job",
+    "run_id": 12372326579,
+    "status": "failure",
+    "created_at": "2024-12-17T11:44:05Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12372326579",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Docker Build and Push For K8s Job",
+    "run_id": 12370830520,
+    "status": "failure",
+    "created_at": "2024-12-17T10:12:08Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12370830520",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Development pipeline for TestCases in divy application",
+    "run_id": 12370121783,
+    "status": "failure",
+    "created_at": "2024-12-17T09:29:55Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12370121783",
+    "total_time_minutes": 17.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Development pipeline for TestCases in divy application",
+    "run_id": 12369899392,
+    "status": "failure",
+    "created_at": "2024-12-17T09:16:43Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12369899392",
+    "total_time_minutes": 4.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Linting pipeline for divy application",
+    "run_id": 12369899390,
+    "status": "failure",
+    "created_at": "2024-12-17T09:16:43Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12369899390",
+    "total_time_minutes": 5.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Docker Build and Push For K8s Job",
+    "run_id": 12368663526,
+    "status": "failure",
+    "created_at": "2024-12-17T07:54:41Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12368663526",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Development pipeline for TestCases in divy application",
+    "run_id": 12349518440,
+    "status": "failure",
+    "created_at": "2024-12-16T09:19:13Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12349518440",
+    "total_time_minutes": 4.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Linting pipeline for divy application",
+    "run_id": 12349518431,
+    "status": "failure",
+    "created_at": "2024-12-16T09:19:13Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12349518431",
+    "total_time_minutes": 5.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Development pipeline for TestCases in divy application",
+    "run_id": 12348127942,
+    "status": "failure",
+    "created_at": "2024-12-16T07:46:49Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12348127942",
+    "total_time_minutes": 17.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Development pipeline for TestCases in divy application",
+    "run_id": 12347419928,
+    "status": "failure",
+    "created_at": "2024-12-16T06:50:04Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12347419928",
+    "total_time_minutes": 3.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Linting pipeline for divy application",
+    "run_id": 12347419932,
+    "status": "failure",
+    "created_at": "2024-12-16T06:50:04Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12347419932",
+    "total_time_minutes": 5.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Linting pipeline for divy application",
+    "run_id": 12346976141,
+    "status": "failure",
+    "created_at": "2024-12-16T06:11:40Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12346976141",
+    "total_time_minutes": 5.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Development pipeline for TestCases in divy application",
+    "run_id": 12346976138,
+    "status": "failure",
+    "created_at": "2024-12-16T06:11:40Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12346976138",
+    "total_time_minutes": 3.0
+  },
+  {
+    "repo": "accuknox-operator",
+    "workflow_name": "ansible-lint",
+    "run_id": 12346098725,
+    "status": "failure",
+    "created_at": "2024-12-16T04:46:22Z",
+    "html_url": "https://github.com/accuknox/accuknox-operator/actions/runs/12346098725",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "Istio-Authx-Policies",
+    "workflow_name": ".github/workflows/development.yaml",
+    "run_id": 12314691360,
+    "status": "failure",
+    "created_at": "2024-12-13T11:19:18Z",
+    "html_url": "https://github.com/accuknox/Istio-Authx-Policies/actions/runs/12314691360",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "swagger-merger",
+    "workflow_name": "Create CNAPP swaggers",
+    "run_id": 12310287285,
+    "status": "failure",
+    "created_at": "2024-12-13T05:41:31Z",
+    "html_url": "https://github.com/accuknox/swagger-merger/actions/runs/12310287285",
+    "total_time_minutes": 2.0
+  },
+  {
+    "repo": "swagger-merger",
+    "workflow_name": "Create CNAPP swaggers",
+    "run_id": 12309011123,
+    "status": "failure",
+    "created_at": "2024-12-13T03:25:58Z",
+    "html_url": "https://github.com/accuknox/swagger-merger/actions/runs/12309011123",
+    "total_time_minutes": 2.0
+  },
+  {
+    "repo": "accuknox-jobs",
+    "workflow_name": "Push SonarQube scans to SaaS",
+    "run_id": 12278440036,
+    "status": "failure",
+    "created_at": "2024-12-11T14:27:40Z",
+    "html_url": "https://github.com/accuknox/accuknox-jobs/actions/runs/12278440036",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "frontend-toolkit",
+    "workflow_name": "Lint, Type Check, Test",
+    "run_id": 12259747277,
+    "status": "failure",
+    "created_at": "2024-12-10T15:48:51Z",
+    "html_url": "https://github.com/accuknox/frontend-toolkit/actions/runs/12259747277",
+    "total_time_minutes": 7.0
+  },
+  {
+    "repo": "swagger-merger",
+    "workflow_name": "Create CNAPP swaggers",
+    "run_id": 12291787169,
+    "status": "failure",
+    "created_at": "2024-12-12T07:30:16Z",
+    "html_url": "https://github.com/accuknox/swagger-merger/actions/runs/12291787169",
+    "total_time_minutes": 2.0
+  },
+  {
+    "repo": "frontend-toolkit",
+    "workflow_name": "saas-reports Workflow",
+    "run_id": 12259747052,
+    "status": "failure",
+    "created_at": "2024-12-10T15:48:50Z",
+    "html_url": "https://github.com/accuknox/frontend-toolkit/actions/runs/12259747052",
+    "total_time_minutes": 11.0
+  },
+  {
+    "repo": "data-offloader",
+    "workflow_name": "data-offloader Workflow",
+    "run_id": 12292589939,
+    "status": "failure",
+    "created_at": "2024-12-12T08:30:52Z",
+    "html_url": "https://github.com/accuknox/data-offloader/actions/runs/12292589939",
+    "total_time_minutes": 8.0
+  },
+  {
+    "repo": "agents-chart",
+    "workflow_name": "Agents chart Workflow",
+    "run_id": 12291739570,
+    "status": "failure",
+    "created_at": "2024-12-12T07:26:31Z",
+    "html_url": "https://github.com/accuknox/agents-chart/actions/runs/12291739570",
+    "total_time_minutes": 4.0
+  },
+  {
+    "repo": "accuknox-jobs",
+    "workflow_name": "Accuknox-Job Workflow",
+    "run_id": 12277849225,
+    "status": "failure",
+    "created_at": "2024-12-11T13:56:04Z",
+    "html_url": "https://github.com/accuknox/accuknox-jobs/actions/runs/12277849225",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "dev2",
+    "workflow_name": "discovery engine Workflow",
+    "run_id": 12295425723,
+    "status": "failure",
+    "created_at": "2024-12-12T11:25:45Z",
+    "html_url": "https://github.com/accuknox/dev2/actions/runs/12295425723",
+    "total_time_minutes": 147.0
+  },
+  {
+    "repo": "data-offloader",
+    "workflow_name": "data-offloader Workflow",
+    "run_id": 12292478611,
+    "status": "failure",
+    "created_at": "2024-12-12T08:23:24Z",
+    "html_url": "https://github.com/accuknox/data-offloader/actions/runs/12292478611",
+    "total_time_minutes": 8.0
+  },
+  {
+    "repo": "data-offloader",
+    "workflow_name": "data-offloader Workflow",
+    "run_id": 12292332999,
+    "status": "failure",
+    "created_at": "2024-12-12T08:13:02Z",
+    "html_url": "https://github.com/accuknox/data-offloader/actions/runs/12292332999",
+    "total_time_minutes": 8.0
+  },
+  {
+    "repo": "dev2",
+    "workflow_name": "discovery engine Workflow",
+    "run_id": 12259406063,
+    "status": "failure",
+    "created_at": "2024-12-10T15:30:08Z",
+    "html_url": "https://github.com/accuknox/dev2/actions/runs/12259406063",
+    "total_time_minutes": 11.0
+  },
+  {
+    "repo": "registry-scanning",
+    "workflow_name": "registry scan Workflow",
+    "run_id": 12310041586,
+    "status": "failure",
+    "created_at": "2024-12-13T05:16:37Z",
+    "html_url": "https://github.com/accuknox/registry-scanning/actions/runs/12310041586",
+    "total_time_minutes": 6.0
+  },
+  {
+    "repo": "registry-scanning",
+    "workflow_name": "registry scan Workflow",
+    "run_id": 12309797165,
+    "status": "failure",
+    "created_at": "2024-12-13T04:50:15Z",
+    "html_url": "https://github.com/accuknox/registry-scanning/actions/runs/12309797165",
+    "total_time_minutes": 7.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12308997148,
+    "status": "failure",
+    "created_at": "2024-12-13T03:24:32Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12308997148",
+    "total_time_minutes": 15.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12308991736,
+    "status": "failure",
+    "created_at": "2024-12-13T03:23:58Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12308991736",
+    "total_time_minutes": 14.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12289612638,
+    "status": "failure",
+    "created_at": "2024-12-12T04:04:01Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12289612638",
+    "total_time_minutes": 15.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12289555249,
+    "status": "failure",
+    "created_at": "2024-12-12T03:57:51Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12289555249",
+    "total_time_minutes": 15.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12269962994,
+    "status": "failure",
+    "created_at": "2024-12-11T04:58:04Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12269962994",
+    "total_time_minutes": 14.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12269962717,
+    "status": "failure",
+    "created_at": "2024-12-11T04:58:02Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12269962717",
+    "total_time_minutes": 14.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12255493374,
+    "status": "failure",
+    "created_at": "2024-12-10T11:50:12Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12255493374",
+    "total_time_minutes": 12.0
+  },
+  {
+    "repo": "data-pipeline-api",
+    "workflow_name": "data-pipeline-api Workflow",
+    "run_id": 12256056602,
+    "status": "failure",
+    "created_at": "2024-12-10T12:25:13Z",
+    "html_url": "https://github.com/accuknox/data-pipeline-api/actions/runs/12256056602",
+    "total_time_minutes": 6.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & ECR Push",
+    "run_id": 12336291100,
+    "status": "failure",
+    "created_at": "2024-12-15T05:48:54Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12336291100",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12254660242,
+    "status": "failure",
+    "created_at": "2024-12-10T10:58:06Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12254660242",
+    "total_time_minutes": 14.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Slack Failure-Notify",
+    "run_id": 12336291097,
+    "status": "failure",
+    "created_at": "2024-12-15T05:48:54Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12336291097",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12254319145,
+    "status": "failure",
+    "created_at": "2024-12-10T10:37:07Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12254319145",
+    "total_time_minutes": 15.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Version availability check",
+    "run_id": 12336291087,
+    "status": "failure",
+    "created_at": "2024-12-15T05:48:54Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12336291087",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12252417294,
+    "status": "failure",
+    "created_at": "2024-12-10T08:43:26Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12252417294",
+    "total_time_minutes": 15.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & scan",
+    "run_id": 12336291109,
+    "status": "failure",
+    "created_at": "2024-12-15T05:48:54Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12336291109",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test sonarqube code scan reusable workflow",
+    "run_id": 12336291089,
+    "status": "failure",
+    "created_at": "2024-12-15T05:48:54Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12336291089",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "data-pipeline-api",
+    "workflow_name": "data-pipeline-api Workflow",
+    "run_id": 12238525055,
+    "status": "failure",
+    "created_at": "2024-12-09T15:12:23Z",
+    "html_url": "https://github.com/accuknox/data-pipeline-api/actions/runs/12238525055",
+    "total_time_minutes": 6.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12252117254,
+    "status": "failure",
+    "created_at": "2024-12-10T08:23:24Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12252117254",
+    "total_time_minutes": 15.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Dependency check",
+    "run_id": 12336291088,
+    "status": "failure",
+    "created_at": "2024-12-15T05:48:54Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12336291088",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12250835123,
+    "status": "failure",
+    "created_at": "2024-12-10T06:43:28Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12250835123",
+    "total_time_minutes": 15.0
+  },
+  {
+    "repo": "Helm-charts",
+    "workflow_name": "Trigger Deployment workflow",
+    "run_id": 12311018712,
+    "status": "failure",
+    "created_at": "2024-12-13T06:52:21Z",
+    "html_url": "https://github.com/accuknox/Helm-charts/actions/runs/12311018712",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Slack Failure-Notify",
+    "run_id": 12271789947,
+    "status": "failure",
+    "created_at": "2024-12-11T07:39:51Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12271789947",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "UI-E2E-testing",
+    "workflow_name": "Push SonarQube scans to SaaS",
+    "run_id": 12336738639,
+    "status": "failure",
+    "created_at": "2024-12-15T07:05:23Z",
+    "html_url": "https://github.com/accuknox/UI-E2E-testing/actions/runs/12336738639",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "accuknox-cli-v2",
+    "workflow_name": "PR Checks",
+    "run_id": 12250821430,
+    "status": "failure",
+    "created_at": "2024-12-10T06:42:16Z",
+    "html_url": "https://github.com/accuknox/accuknox-cli-v2/actions/runs/12250821430",
+    "total_time_minutes": 14.0
+  },
+  {
+    "repo": "UI-E2E-testing",
+    "workflow_name": "Push SonarQube scans to SaaS",
+    "run_id": 12336730686,
+    "status": "failure",
+    "created_at": "2024-12-15T07:04:19Z",
+    "html_url": "https://github.com/accuknox/UI-E2E-testing/actions/runs/12336730686",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & ECR Push",
+    "run_id": 12271789865,
+    "status": "failure",
+    "created_at": "2024-12-11T07:39:51Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12271789865",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & scan",
+    "run_id": 12271789878,
+    "status": "failure",
+    "created_at": "2024-12-11T07:39:51Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12271789878",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Version availability check",
+    "run_id": 12271789897,
+    "status": "failure",
+    "created_at": "2024-12-11T07:39:51Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12271789897",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Dependency check",
+    "run_id": 12271789869,
+    "status": "failure",
+    "created_at": "2024-12-11T07:39:51Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12271789869",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test sonarqube code scan reusable workflow",
+    "run_id": 12271789870,
+    "status": "failure",
+    "created_at": "2024-12-11T07:39:51Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12271789870",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "Helm-charts",
+    "workflow_name": "Validate Helm Charts",
+    "run_id": 12290303326,
+    "status": "failure",
+    "created_at": "2024-12-12T05:16:19Z",
+    "html_url": "https://github.com/accuknox/Helm-charts/actions/runs/12290303326",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Version availability check",
+    "run_id": 12271708428,
+    "status": "failure",
+    "created_at": "2024-12-11T07:33:27Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12271708428",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "Helm-charts",
+    "workflow_name": "Validate Helm Charts",
+    "run_id": 12290240097,
+    "status": "failure",
+    "created_at": "2024-12-12T05:10:04Z",
+    "html_url": "https://github.com/accuknox/Helm-charts/actions/runs/12290240097",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & ECR Push",
+    "run_id": 12271708405,
+    "status": "failure",
+    "created_at": "2024-12-11T07:33:27Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12271708405",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "Helm-charts",
+    "workflow_name": "Validate Helm Charts",
+    "run_id": 12290214603,
+    "status": "failure",
+    "created_at": "2024-12-12T05:07:22Z",
+    "html_url": "https://github.com/accuknox/Helm-charts/actions/runs/12290214603",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Slack Failure-Notify",
+    "run_id": 12271708406,
+    "status": "failure",
+    "created_at": "2024-12-11T07:33:27Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12271708406",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "Helm-charts",
+    "workflow_name": "Validate Helm Charts",
+    "run_id": 12290163858,
+    "status": "failure",
+    "created_at": "2024-12-12T05:02:48Z",
+    "html_url": "https://github.com/accuknox/Helm-charts/actions/runs/12290163858",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Dependency check",
+    "run_id": 12271708402,
+    "status": "failure",
+    "created_at": "2024-12-11T07:33:27Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12271708402",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "UI-E2E-testing",
+    "workflow_name": "Lint",
+    "run_id": 12318244145,
+    "status": "failure",
+    "created_at": "2024-12-13T15:15:48Z",
+    "html_url": "https://github.com/accuknox/UI-E2E-testing/actions/runs/12318244145",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test sonarqube code scan reusable workflow",
+    "run_id": 12271708403,
+    "status": "failure",
+    "created_at": "2024-12-11T07:33:27Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12271708403",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "common-gh-actions",
+    "workflow_name": "Test docker Build & scan",
+    "run_id": 12271708412,
+    "status": "failure",
+    "created_at": "2024-12-11T07:33:27Z",
+    "html_url": "https://github.com/accuknox/common-gh-actions/actions/runs/12271708412",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "Helm-charts",
+    "workflow_name": "Trigger Deployment workflow",
+    "run_id": 12276751148,
+    "status": "failure",
+    "created_at": "2024-12-11T12:51:53Z",
+    "html_url": "https://github.com/accuknox/Helm-charts/actions/runs/12276751148",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "SRE",
+    "workflow_name": "Run Python Script and Push to S3 demo",
+    "run_id": 12325884275,
+    "status": "failure",
+    "created_at": "2024-12-14T02:02:44Z",
+    "html_url": "https://github.com/accuknox/SRE/actions/runs/12325884275",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "UI-E2E-testing",
+    "workflow_name": "Lint",
+    "run_id": 12311812931,
+    "status": "failure",
+    "created_at": "2024-12-13T08:01:30Z",
+    "html_url": "https://github.com/accuknox/UI-E2E-testing/actions/runs/12311812931",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "deployments",
+    "workflow_name": "Checks",
+    "run_id": 12546067409,
+    "status": "failure",
+    "created_at": "2024-12-30T11:44:08Z",
+    "html_url": "https://github.com/accuknox/deployments/actions/runs/12546067409",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "UI-E2E-testing",
+    "workflow_name": "Lint",
+    "run_id": 12310693411,
+    "status": "failure",
+    "created_at": "2024-12-13T06:22:06Z",
+    "html_url": "https://github.com/accuknox/UI-E2E-testing/actions/runs/12310693411",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "accuknox-frontend",
+    "workflow_name": "Divy Frontend Dev Pipeline",
+    "run_id": 12309322805,
+    "status": "failure",
+    "created_at": "2024-12-13T03:58:28Z",
+    "html_url": "https://github.com/accuknox/accuknox-frontend/actions/runs/12309322805",
+    "total_time_minutes": 5.0
+  },
+  {
+    "repo": "accuknox-frontend",
+    "workflow_name": "Divy Frontend On Prem Pipeline",
+    "run_id": 12309322790,
+    "status": "failure",
+    "created_at": "2024-12-13T03:58:28Z",
+    "html_url": "https://github.com/accuknox/accuknox-frontend/actions/runs/12309322790",
+    "total_time_minutes": 4.0
+  },
+  {
+    "repo": "UI-E2E-testing",
+    "workflow_name": "CWPP - Demo",
+    "run_id": 12309172341,
+    "status": "failure",
+    "created_at": "2024-12-13T03:41:59Z",
+    "html_url": "https://github.com/accuknox/UI-E2E-testing/actions/runs/12309172341",
+    "total_time_minutes": 17.0
+  },
+  {
+    "repo": "accuknox-frontend",
+    "workflow_name": "Divy Frontend Dev Pipeline",
+    "run_id": 12302020477,
+    "status": "failure",
+    "created_at": "2024-12-12T17:53:50Z",
+    "html_url": "https://github.com/accuknox/accuknox-frontend/actions/runs/12302020477",
+    "total_time_minutes": 5.0
+  },
+  {
+    "repo": "accuknox-frontend",
+    "workflow_name": "Divy Frontend On Prem Pipeline",
+    "run_id": 12302020453,
+    "status": "failure",
+    "created_at": "2024-12-12T17:53:50Z",
+    "html_url": "https://github.com/accuknox/accuknox-frontend/actions/runs/12302020453",
+    "total_time_minutes": 4.0
+  },
+  {
+    "repo": "UI-E2E-testing",
+    "workflow_name": "CWPP - Prod",
+    "run_id": 12309140280,
+    "status": "failure",
+    "created_at": "2024-12-13T03:39:13Z",
+    "html_url": "https://github.com/accuknox/UI-E2E-testing/actions/runs/12309140280",
+    "total_time_minutes": 10.0
+  },
+  {
+    "repo": "deployments",
+    "workflow_name": "Checks",
+    "run_id": 12311319659,
+    "status": "failure",
+    "created_at": "2024-12-13T07:19:09Z",
+    "html_url": "https://github.com/accuknox/deployments/actions/runs/12311319659",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "UI-E2E-testing",
+    "workflow_name": "Lint",
+    "run_id": 12299856304,
+    "status": "failure",
+    "created_at": "2024-12-12T15:44:15Z",
+    "html_url": "https://github.com/accuknox/UI-E2E-testing/actions/runs/12299856304",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "Helm-charts",
+    "workflow_name": "Trigger Deployment workflow",
+    "run_id": 12249086380,
+    "status": "failure",
+    "created_at": "2024-12-10T03:54:02Z",
+    "html_url": "https://github.com/accuknox/Helm-charts/actions/runs/12249086380",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "deployments",
+    "workflow_name": "Checks",
+    "run_id": 12309196503,
+    "status": "failure",
+    "created_at": "2024-12-13T03:44:31Z",
+    "html_url": "https://github.com/accuknox/deployments/actions/runs/12309196503",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "deployments",
+    "workflow_name": "Checks",
+    "run_id": 12309163141,
+    "status": "failure",
+    "created_at": "2024-12-13T03:41:05Z",
+    "html_url": "https://github.com/accuknox/deployments/actions/runs/12309163141",
+    "total_time_minutes": 2.0
+  },
+  {
+    "repo": "Helm-charts",
+    "workflow_name": "Trigger Deployment workflow",
+    "run_id": 12234100979,
+    "status": "failure",
+    "created_at": "2024-12-09T10:52:18Z",
+    "html_url": "https://github.com/accuknox/Helm-charts/actions/runs/12234100979",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "deployments",
+    "workflow_name": "Checks",
+    "run_id": 12297227994,
+    "status": "failure",
+    "created_at": "2024-12-12T13:17:55Z",
+    "html_url": "https://github.com/accuknox/deployments/actions/runs/12297227994",
+    "total_time_minutes": 3.0
+  },
+  {
+    "repo": "UI-E2E-testing",
+    "workflow_name": "Lint",
+    "run_id": 12256676870,
+    "status": "failure",
+    "created_at": "2024-12-10T13:02:58Z",
+    "html_url": "https://github.com/accuknox/UI-E2E-testing/actions/runs/12256676870",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "accuknox-frontend",
+    "workflow_name": "Divy Frontend Dev Pipeline",
+    "run_id": 12237518462,
+    "status": "failure",
+    "created_at": "2024-12-09T14:18:00Z",
+    "html_url": "https://github.com/accuknox/accuknox-frontend/actions/runs/12237518462",
+    "total_time_minutes": 8.0
+  },
+  {
+    "repo": "accuknox-frontend",
+    "workflow_name": "Divy Frontend On Prem Pipeline",
+    "run_id": 12237518458,
+    "status": "failure",
+    "created_at": "2024-12-09T14:18:00Z",
+    "html_url": "https://github.com/accuknox/accuknox-frontend/actions/runs/12237518458",
+    "total_time_minutes": 3.0
+  },
+  {
+    "repo": "SRE",
+    "workflow_name": "Run Python Script and Push to S3 xcitium",
+    "run_id": 12255706660,
+    "status": "failure",
+    "created_at": "2024-12-10T12:04:40Z",
+    "html_url": "https://github.com/accuknox/SRE/actions/runs/12255706660",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "SRE",
+    "workflow_name": "SonarQube",
+    "run_id": 12255706656,
+    "status": "failure",
+    "created_at": "2024-12-10T12:04:40Z",
+    "html_url": "https://github.com/accuknox/SRE/actions/runs/12255706656",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "SRE",
+    "workflow_name": "Run Python Script and Push to S3 demo",
+    "run_id": 12255706659,
+    "status": "failure",
+    "created_at": "2024-12-10T12:04:40Z",
+    "html_url": "https://github.com/accuknox/SRE/actions/runs/12255706659",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "SRE",
+    "workflow_name": "Run Python Script and Push to S3 Prod",
+    "run_id": 12255706658,
+    "status": "failure",
+    "created_at": "2024-12-10T12:04:40Z",
+    "html_url": "https://github.com/accuknox/SRE/actions/runs/12255706658",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "SRE",
+    "workflow_name": "Run Python Script and Push to S3 Prod",
+    "run_id": 12255706673,
+    "status": "failure",
+    "created_at": "2024-12-10T12:04:40Z",
+    "html_url": "https://github.com/accuknox/SRE/actions/runs/12255706673",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "UI-E2E-testing",
+    "workflow_name": "Lint",
+    "run_id": 12237190910,
+    "status": "failure",
+    "created_at": "2024-12-09T14:00:13Z",
+    "html_url": "https://github.com/accuknox/UI-E2E-testing/actions/runs/12237190910",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "SRE",
+    "workflow_name": "Run Python Script and Push to S3 Prod",
+    "run_id": 12251916324,
+    "status": "failure",
+    "created_at": "2024-12-10T08:09:38Z",
+    "html_url": "https://github.com/accuknox/SRE/actions/runs/12251916324",
+    "total_time_minutes": 9.0
+  },
+  {
+    "repo": "SRE",
+    "workflow_name": "Run Python Script and Push to S3 Prod",
+    "run_id": 12246945206,
+    "status": "failure",
+    "created_at": "2024-12-10T00:31:40Z",
+    "html_url": "https://github.com/accuknox/SRE/actions/runs/12246945206",
+    "total_time_minutes": 9.0
+  },
+  {
+    "repo": "SRE",
+    "workflow_name": "Run Python Script and Push to S3 Prod",
+    "run_id": 12239580673,
+    "status": "failure",
+    "created_at": "2024-12-09T16:08:38Z",
+    "html_url": "https://github.com/accuknox/SRE/actions/runs/12239580673",
+    "total_time_minutes": 11.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Docker Build and Push For K8s Job",
+    "run_id": 12346464915,
+    "status": "failure",
+    "created_at": "2024-12-16T05:23:07Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12346464915",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Docker Build and Push For K8s Job",
+    "run_id": 12346408415,
+    "status": "failure",
+    "created_at": "2024-12-16T05:17:33Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12346408415",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Docker Build and Push For K8s Job",
+    "run_id": 12346344882,
+    "status": "failure",
+    "created_at": "2024-12-16T05:11:20Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12346344882",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "deployments",
+    "workflow_name": "development",
+    "run_id": 12254301015,
+    "status": "failure",
+    "created_at": "2024-12-10T10:36:03Z",
+    "html_url": "https://github.com/accuknox/deployments/actions/runs/12254301015",
+    "total_time_minutes": 15.0
+  },
+  {
+    "repo": "deployments",
+    "workflow_name": "development",
+    "run_id": 12253450342,
+    "status": "failure",
+    "created_at": "2024-12-10T09:45:35Z",
+    "html_url": "https://github.com/accuknox/deployments/actions/runs/12253450342",
+    "total_time_minutes": 26.0
+  },
+  {
+    "repo": "deployments",
+    "workflow_name": "development",
+    "run_id": 12253200013,
+    "status": "failure",
+    "created_at": "2024-12-10T09:30:41Z",
+    "html_url": "https://github.com/accuknox/deployments/actions/runs/12253200013",
+    "total_time_minutes": 16.0
+  },
+  {
+    "repo": "deployments",
+    "workflow_name": "development",
+    "run_id": 12251977206,
+    "status": "failure",
+    "created_at": "2024-12-10T08:13:48Z",
+    "html_url": "https://github.com/accuknox/deployments/actions/runs/12251977206",
+    "total_time_minutes": 15.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "divy Workflow",
+    "run_id": 12336583448,
+    "status": "failure",
+    "created_at": "2024-12-15T06:37:53Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12336583448",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Ensure PR titles follow the format \"[CNAPP-<ISSUE_NUMBER>] <ISSUE_TITLE>\"",
+    "run_id": 12336572150,
+    "status": "failure",
+    "created_at": "2024-12-15T06:36:10Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12336572150",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "divy Workflow",
+    "run_id": 12336572056,
+    "status": "failure",
+    "created_at": "2024-12-15T06:36:10Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12336572056",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "deployments",
+    "workflow_name": "Checks",
+    "run_id": 12249129240,
+    "status": "failure",
+    "created_at": "2024-12-10T03:58:31Z",
+    "html_url": "https://github.com/accuknox/deployments/actions/runs/12249129240",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Development pipeline for TestCases in divy application",
+    "run_id": 12336335043,
+    "status": "failure",
+    "created_at": "2024-12-15T05:59:23Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12336335043",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Linting pipeline for divy application",
+    "run_id": 12336335050,
+    "status": "failure",
+    "created_at": "2024-12-15T05:59:23Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12336335050",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "divy Workflow",
+    "run_id": 12336335044,
+    "status": "failure",
+    "created_at": "2024-12-15T05:59:23Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12336335044",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Linting pipeline for divy application",
+    "run_id": 12336320350,
+    "status": "failure",
+    "created_at": "2024-12-15T05:55:04Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12336320350",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Development pipeline for TestCases in divy application",
+    "run_id": 12336320347,
+    "status": "failure",
+    "created_at": "2024-12-15T05:55:04Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12336320347",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "divy Workflow",
+    "run_id": 12336320348,
+    "status": "failure",
+    "created_at": "2024-12-15T05:55:04Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12336320348",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Development pipeline for TestCases in divy application",
+    "run_id": 12336245716,
+    "status": "failure",
+    "created_at": "2024-12-15T05:40:19Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12336245716",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Ensure PR titles follow the format \"[CNAPP-<ISSUE_NUMBER>] <ISSUE_TITLE>\"",
+    "run_id": 12336239490,
+    "status": "failure",
+    "created_at": "2024-12-15T05:39:06Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12336239490",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Development pipeline for TestCases in divy application",
+    "run_id": 12336239489,
+    "status": "failure",
+    "created_at": "2024-12-15T05:39:06Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12336239489",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Linting pipeline for divy application",
+    "run_id": 12336239498,
+    "status": "failure",
+    "created_at": "2024-12-15T05:39:06Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12336239498",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "divy Workflow",
+    "run_id": 12336239500,
+    "status": "failure",
+    "created_at": "2024-12-15T05:39:06Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12336239500",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Development pipeline for TestCases in divy application",
+    "run_id": 12327597329,
+    "status": "failure",
+    "created_at": "2024-12-14T06:25:00Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12327597329",
+    "total_time_minutes": 17.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Development pipeline for TestCases in divy application",
+    "run_id": 12317507236,
+    "status": "failure",
+    "created_at": "2024-12-13T14:30:32Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12317507236",
+    "total_time_minutes": 17.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Docker Build and Push For K8s Job",
+    "run_id": 12316475182,
+    "status": "failure",
+    "created_at": "2024-12-13T13:23:46Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12316475182",
+    "total_time_minutes": 21.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Docker Build and Push For K8s Job",
+    "run_id": 12315498028,
+    "status": "failure",
+    "created_at": "2024-12-13T12:17:53Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12315498028",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Linting pipeline for divy application",
+    "run_id": 12315328179,
+    "status": "failure",
+    "created_at": "2024-12-13T12:06:17Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12315328179",
+    "total_time_minutes": 6.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Ensure PR titles follow the format \"[CNAPP-<ISSUE_NUMBER>] <ISSUE_TITLE>\"",
+    "run_id": 12315328188,
+    "status": "failure",
+    "created_at": "2024-12-13T12:06:17Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12315328188",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Docker Build and Push For K8s Job",
+    "run_id": 12315305490,
+    "status": "failure",
+    "created_at": "2024-12-13T12:04:43Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12315305490",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Linting pipeline for divy application",
+    "run_id": 12315219131,
+    "status": "failure",
+    "created_at": "2024-12-13T11:58:40Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12315219131",
+    "total_time_minutes": 6.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Ensure PR titles follow the format \"[CNAPP-<ISSUE_NUMBER>] <ISSUE_TITLE>\"",
+    "run_id": 12315219140,
+    "status": "failure",
+    "created_at": "2024-12-13T11:58:40Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12315219140",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Docker Build and Push For K8s Job",
+    "run_id": 12310652262,
+    "status": "failure",
+    "created_at": "2024-12-13T06:18:18Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12310652262",
+    "total_time_minutes": 10.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Docker Build and Push For K8s Job",
+    "run_id": 12310577827,
+    "status": "failure",
+    "created_at": "2024-12-13T06:11:37Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12310577827",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Docker Build and Push For K8s Job",
+    "run_id": 12297966085,
+    "status": "failure",
+    "created_at": "2024-12-12T14:01:44Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12297966085",
+    "total_time_minutes": 2.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Docker Build and Push For K8s Job",
+    "run_id": 12297772510,
+    "status": "failure",
+    "created_at": "2024-12-12T13:49:37Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12297772510",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Docker Build and Push For K8s Job",
+    "run_id": 12297669635,
+    "status": "failure",
+    "created_at": "2024-12-12T13:43:45Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12297669635",
+    "total_time_minutes": 3.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Docker Build and Push For K8s Job",
+    "run_id": 12297595637,
+    "status": "failure",
+    "created_at": "2024-12-12T13:39:27Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12297595637",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Docker Build and Push For K8s Job",
+    "run_id": 12297577439,
+    "status": "failure",
+    "created_at": "2024-12-12T13:38:24Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12297577439",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Docker Build and Push For K8s Job",
+    "run_id": 12293507539,
+    "status": "failure",
+    "created_at": "2024-12-12T09:28:56Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12293507539",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Docker Build and Push For K8s Job",
+    "run_id": 12292062340,
+    "status": "failure",
+    "created_at": "2024-12-12T07:52:41Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12292062340",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Docker Build and Push For K8s Job",
+    "run_id": 12291768447,
+    "status": "failure",
+    "created_at": "2024-12-12T07:28:45Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12291768447",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Docker Build and Push For K8s Job",
+    "run_id": 12291303069,
+    "status": "failure",
+    "created_at": "2024-12-12T06:49:36Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12291303069",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Linting pipeline for divy application",
+    "run_id": 12290068182,
+    "status": "failure",
+    "created_at": "2024-12-12T04:52:12Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12290068182",
+    "total_time_minutes": 5.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Development pipeline for TestCases in divy application",
+    "run_id": 12290068215,
+    "status": "failure",
+    "created_at": "2024-12-12T04:52:12Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12290068215",
+    "total_time_minutes": 16.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Docker Build and Push For K8s Job",
+    "run_id": 12290003081,
+    "status": "failure",
+    "created_at": "2024-12-12T04:45:21Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12290003081",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Docker Build and Push For K8s Job",
+    "run_id": 12277075929,
+    "status": "failure",
+    "created_at": "2024-12-11T13:11:24Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12277075929",
+    "total_time_minutes": 4.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Docker Build and Push For K8s Job",
+    "run_id": 12276880375,
+    "status": "failure",
+    "created_at": "2024-12-11T12:59:48Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12276880375",
+    "total_time_minutes": 3.0
+  },
+  {
+    "repo": "divy-backend",
+    "workflow_name": "Docker Build and Push For K8s Job",
+    "run_id": 12276601695,
+    "status": "failure",
+    "created_at": "2024-12-11T12:42:50Z",
+    "html_url": "https://github.com/accuknox/divy-backend/actions/runs/12276601695",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "Istio-Authx-Policies",
+    "workflow_name": ".github/workflows/development.yaml",
+    "run_id": 12556351047,
+    "status": "failure",
+    "created_at": "2024-12-31T06:28:20Z",
+    "html_url": "https://github.com/accuknox/Istio-Authx-Policies/actions/runs/12556351047",
+    "total_time_minutes": 0.0
+  },
+  {
+    "repo": "UI-E2E-testing",
+    "workflow_name": "Lint",
+    "run_id": 12555885685,
+    "status": "failure",
+    "created_at": "2024-12-31T05:27:01Z",
+    "html_url": "https://github.com/accuknox/UI-E2E-testing/actions/runs/12555885685",
+    "total_time_minutes": 1.0
+  },
+  {
+    "repo": "swagger-merger",
+    "workflow_name": "Create CNAPP swaggers",
+    "run_id": 12556197849,
+    "status": "failure",
+    "created_at": "2024-12-31T06:10:24Z",
+    "html_url": "https://github.com/accuknox/swagger-merger/actions/runs/12556197849",
+    "total_time_minutes": 2.0
+  },
+  {
+    "repo": "Helm-charts",
+    "workflow_name": "Validate Helm Charts",
+    "run_id": 12556963608,
+    "status": "failure",
+    "created_at": "2024-12-31T07:42:21Z",
+    "html_url": "https://github.com/accuknox/Helm-charts/actions/runs/12556963608",
+    "total_time_minutes": 1.0
+  }
+]

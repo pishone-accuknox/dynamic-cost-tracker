@@ -8,7 +8,6 @@ async function fetchData(url) {
 }
 
 function showTab(tabId) {
-  // Hide all tab contents
   document.querySelectorAll('.tab-content').forEach(tab => {
     tab.style.display = tab.id === tabId ? 'block' : 'none';
   });
@@ -19,7 +18,6 @@ function showTab(tabId) {
   });
   document.querySelector(`[onclick="showTab('${tabId}')"]`).classList.add('active');
 
-  // Load specific content for the selected tab
   if (tabId === 'time-analysis') {
     loadTimeAnalysis();
   } else if (tabId === 'failures') {
@@ -29,32 +27,62 @@ function showTab(tabId) {
   }
 }
 
-async function loadTimeAnalysis() {
-  const workflowData = await fetchData('data/workflow_runs.json');
-  const failedRuns = await fetchData('data/failed_runs.json');
+async function updateWidgets() {
+  const trendData = await fetchData('data/daily_trend.json');
+  const failuresData = await fetchData('data/failed_runs.json');
 
-  const COST_PER_MINUTE = {
-    UBUNTU: 0.008,
-    WINDOWS: 0.016,
-    MACOS: 0.08
-  };
-  let totalCost = 0;
-
-  // Get from/to dates from hidden inputs
   const fromDate = new Date(document.getElementById('fromDate').value);
   const toDate = new Date(document.getElementById('toDate').value);
 
-  // Filter workflow data by date range and calculate costs
+  const COST_PER_MINUTE = {
+    Ubuntu: 0.008,
+    Windows: 0.016,
+    MacOS: 0.08,
+  };
+
+  // Calculate Total Cost
+  let totalCost = 0;
+  const today = new Date().toISOString().split('T')[0];
+  trendData.forEach(day => {
+    const date = new Date(day.date);
+    if (date >= fromDate && date <= toDate) {
+      totalCost += (day.Ubuntu * COST_PER_MINUTE.Ubuntu) +
+                   (day.Windows * COST_PER_MINUTE.Windows) +
+                   (day.MacOS * COST_PER_MINUTE.MacOS);
+    }
+  });
+  document.getElementById('totalCost').innerText = `$${totalCost.toFixed(2)}`;
+
+  // Top 3 Time-Consuming Workflows
+  const sortedWorkflows = trendData
+    .filter(day => new Date(day.date) >= fromDate && new Date(day.date) <= toDate)
+    .sort((a, b) => b.Total - a.Total)
+    .slice(0, 3);
+  const topWorkflowsList = sortedWorkflows
+    .map(workflow => `<li>${workflow.date}: ${workflow.Total} minutes</li>`)
+    .join('');
+  document.getElementById('topWorkflows').innerHTML = topWorkflowsList;
+
+  // Count Failures Today
+  const failedToday = failuresData.filter(run => run.created_at.split('T')[0] === today).length;
+  document.getElementById('failedWorkflows').innerText = failedToday;
+}
+
+// Hook widget updates to date filter changes
+document.getElementById('dateRange').addEventListener('change', updateWidgets);
+updateWidgets();
+
+async function loadTimeAnalysis() {
+  const workflowData = await fetchData('data/workflow_runs.json');
+
+  const fromDate = new Date(document.getElementById('fromDate').value);
+  const toDate = new Date(document.getElementById('toDate').value);
+
   const aggregatedData = workflowData.reduce((acc, run) => {
     const runDate = new Date(run.created_at.split("T")[0]);
     if (runDate >= fromDate && runDate <= toDate && run.total_time_minutes > 0) {
       const key = `${run.repo} - ${run.workflow_name}`;
       acc[key] = (acc[key] || 0) + run.total_time_minutes;
-
-      // Calculate cost for this run
-      if (run.os && COST_PER_MINUTE[run.os]) {
-        totalCost += run.total_time_minutes * COST_PER_MINUTE[run.os];
-      }
     }
     return acc;
   }, {});
@@ -67,33 +95,9 @@ async function loadTimeAnalysis() {
       return acc;
     }, { labels: [], data: [] });
 
-  // Display the total cost
-  document.getElementById('totalCostDisplay').innerText = `Total Cost: $${totalCost.toFixed(2)}`;
-
-  // Update top workflows widget
-  const topWorkflows = Object.entries(aggregatedData)
-    .sort(([, a], [, b]) => b - a)
-    .slice(0, 3);
-
-  const topWorkflowsList = document.getElementById('topWorkflows');
-  topWorkflowsList.innerHTML = topWorkflows
-    .map(([name, time]) => `
-      <li class="widget-list-item">
-        <span>${name}</span>
-        <span>${time.toFixed(1)} min</span>
-      </li>
-    `)
-    .join('');
-
-  // Update failed workflows count
-  const today = new Date().toISOString().split('T')[0];
-  const failedToday = failedRuns.filter(run => run.created_at.startsWith(today)).length;
-  document.getElementById('failedWorkflowsCount').textContent = failedToday;
-
   // Horizontal Bar Chart for Workflow Time Analysis
   const barChartCtx = document.getElementById('workflowBarChart').getContext('2d');
 
-  // Gradient fill for the bars
   const gradient = barChartCtx.createLinearGradient(0, 0, 0, barChartCtx.canvas.height);
   gradient.addColorStop(0, 'rgba(75, 192, 192, 0.8)');
   gradient.addColorStop(1, 'rgba(75, 192, 192, 0.2)');
@@ -164,6 +168,19 @@ async function loadTimeAnalysis() {
     },
   });
 }
+// Attach updateWidgets to date picker
+document.getElementById('dateRange').addEventListener('change', updateWidgets);
+window.onload = () => {
+  const savedTheme = localStorage.getItem("theme") || "light";
+  document.body.className = savedTheme === "dark" ? "dark-theme" : "light-theme";
+  document.getElementById("checkboxInput").checked = savedTheme === "dark";
+
+  flatpickr('#dateRange', {
+    mode: 'range',
+    dateFormat: 'Y-m-d',
+    onClose: updateWidgets,
+  });
+};
 
 // Load Daily Runtime Trend chart
 async function loadTrendChart() {
@@ -377,16 +394,9 @@ window.onload = () => {
       }
     },
   });
-};  
+};
 
 // Initial Load
 loadTimeAnalysis();
 loadFailures();
 updateLastUpdated();
-
-// Add toggle button animation
-document.querySelectorAll('.toggle-button').forEach(button => {
-  button.addEventListener('click', () => {
-    button.classList.toggle('active');
-  });
-});
