@@ -168,6 +168,7 @@ async function loadTimeAnalysis() {
     },
   });
 }
+
 // Attach updateWidgets to date picker
 document.getElementById('dateRange').addEventListener('change', updateWidgets);
 window.onload = () => {
